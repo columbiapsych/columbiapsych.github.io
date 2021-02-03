@@ -1,0 +1,73 @@
+baseURL = "https://columbiapsych.github.io/"
+languageCode = "en-us"
+title = "Columbia Psychology: Prospective Students' Day"
+theme = "minimal-bootstrap-hugo-theme"
+relativeURLs = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+    post = "/:slug/"
+
+[params]
+  description = "Columbia Psychology: Prospective Students' Day"
+  customDateFormat = "Jan 2, 2006"
+  customCodeStyle = true
+  customBlockquoteStyle = true
+  showPostSummary = false
+  cookieConsent = false
+  includeBootstrapJs = true
+  faviconSafariPinnedTabColor = "#5bbad5"
+  faviconMsApplicationTileColor = "#da532c"
+  faviconThemeColor = "#ffffff"
+
+[menu]
+  [[menu.main]]
+  name = "Who We Are"
+  url = "/who/"
+  weight = 200
+  [[menu.main]]
+  name = "Workshop"
+  url = "/workshop/"
+  weight = 300
+  [[menu.main]]
+  name = "Meetings"
+  url = "/meetings/"
+  weight = 400
+  [[menu.main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 500
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+  [markup.highlight]
+    codeFences = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "tango"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 6
+    startLevel = 2
