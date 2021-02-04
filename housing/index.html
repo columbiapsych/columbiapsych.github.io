@@ -433,65 +433,25 @@ button:focus {
 
 <div id="housing" class="section level1">
 <h1>Housing</h1>
-<p>Come and learn with us at one of our meetings! Topics span various early-intermediate to advanced strategies for asking psychological research questions using scientific computing tools.</p>
-</div>
-<div id="workshop-recording-session-1" class="section level1">
-<h1>Workshop Recording: Session 1</h1>
+<p>The university offers housing to graduate students for up to five years in apartment buildings near campus. There are several different kinds of units available, including apartment shares, studios, one bedrooms (for students who live with a spouse), and larger units (for students with children). For more specifics on the different kinds of units and eligibility, we recommend checking out <a href="https://residential.columbia.edu/content/students/accommodations" target="_blank">the Columbia Residential website</a>.</p>
+<p>To give you a better sense of what it’s like to live in Morningside Heights, several students in the program have created video tours featuring their Columbia housing. Please see below!</p>
+<div id="video-tours" class="section level2">
+<h2>Video Tours</h2>
+<hr />
+<div id="studio-apartment" class="section level3">
+<h3>Studio Apartment</h3>
 <div class="video-container">
-<div id="player">
-
+<iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
 </div>
 </div>
-<script>
-  var tag = document.createElement('script');
-
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  var player;
-  var ytSeconds = 0;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '390',
-      width: '640',
-      videoId: 'h52nyfxQ6hc',
-      playerVars: { 
-        'color': "white",
-        'showinfo': 0,
-        'rel': 0
-      },
-      events: {
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-  
-  function onPlayerStateChange(e) {
-    if (e.data == 1 && ytSeconds > 0) {
-      e.target.seekTo(ytSeconds);
-      ytSeconds = 0;
-    }
-  }
-  
-  function seekTo(seconds) {
-    if (player.getPlayerState() == 1) {
-      player.seekTo(seconds);
-    }
-    else {
-      ytSeconds = seconds;
-      player.playVideo();
-    }
-  }
-</script>
-<div id="session-1-tutorials" class="section level3">
-<h3>Session 1 Tutorials:</h3>
-<p><em>Click on the timestamp to jump to the beginning of the tutorial.</em></p>
-<ul>
-<li>Programming in R, Part 0: <a href="#" onclick="seekTo(5);">0:00:05</a> [<a href="../tutorials/r-core/1-programming/lessonpart0/" target="_blank">Materials</a>]</li>
-<li>Programming in R, Part 1: <a href="#" onclick="seekTo(4330);">1:12:10</a> [<a href="../tutorials/r-core/1-programming/lessonpart1/" target="_blank">Materials</a>]</li>
-<li>Programming in R, Part 2: <a href="#" onclick="seekTo(8016);">2:13:36</a> [<a href="../tutorials/r-core/1-programming/lessonpart2/" target="_blank">Materials</a>]</li>
-</ul>
+<div id="one-bedroom-apartment" class="section level3">
+<h3>One-Bedroom Apartment</h3>
+<div class="video-container">
+<iframe width="640" height="390" src="https://www.youtube.com/embed/b_8QeK5fIH4?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
+</div>
+</div>
 </div>
 </div>
 
