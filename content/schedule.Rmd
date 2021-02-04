@@ -10,7 +10,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Fall 2020 Workshop
+# Schedule
 
 <div class="highlightsec">
 **Instructors:** Paul A. Bloom, Ana DiGiovanni, Camille Gasser, Manasi Jayakumar, Emily Nakkawita, Jonathan Nicholas, Matt Siegelman, Ben Silver, Hannah Tarder-Stoll, Monica Thieu, Anna Vannucci
