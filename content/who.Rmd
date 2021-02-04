@@ -1,6 +1,6 @@
 ---
 title: "Who We Are"
-author: "Psych Methods Support"
+author: "Columbia Psychology"
 output:
   blogdown::html_page:
     toc: false

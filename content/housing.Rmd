@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Housing"
 author: "Columbia Psychology"
 output:
   blogdown::html_page:
@@ -10,28 +10,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Welcome, Prospective Students!
+# Housing
 
-## Individual Scientific Computing Support
+Come and learn with us at one of our meetings! Topics span various early-intermediate to advanced strategies for asking psychological research questions using scientific computing tools.
 
----
-
-Welcome blurb here. We're excited you're here. On this site, you'll find stuff.
-
-Quick links:
-
-- Kumospace
-- Slack channel
-
-If any questions arise during your visit, reach out to us anytime [here](mailto:psych-methods-support@columbia.edu){target="_blank"}.
-
-## Events for Today
-
----
-
-[Schedule]
-
-To see the full schedule for Prospective Studnets' weekeend, see the  [Schedule](/schedule/) page.
+# Workshop Recording: Session 1
 
 <div class="video-container">
   <div id="player"></div>
@@ -79,3 +62,11 @@ To see the full schedule for Prospective Studnets' weekeend, see the  [Schedule]
     }
   }
 </script>
+
+### Session 1 Tutorials:
+
+*Click on the timestamp to jump to the beginning of the tutorial.*
+
+- Programming in R, Part 0: <a href="#" onclick="seekTo(5);">0:00:05</a> [<a href="/tutorials/r-core/1-programming/lessonpart0/" target="_blank">Materials</a>]
+- Programming in R, Part 1: <a href="#" onclick="seekTo(4330);">1:12:10</a> [<a href="/tutorials/r-core/1-programming/lessonpart1/" target="_blank">Materials</a>]
+- Programming in R, Part 2: <a href="#" onclick="seekTo(8016);">2:13:36</a> [<a href="/tutorials/r-core/1-programming/lessonpart2/" target="_blank">Materials</a>]

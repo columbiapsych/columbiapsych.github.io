@@ -1,6 +1,6 @@
 ---
-title: "Workshop"
-author: "Psych Methods Support"
+title: "Schedule"
+author: "Columbia Psychology"
 output:
   blogdown::html_page:
     toc: false
@@ -39,16 +39,6 @@ Accessible restrooms are available.
 -->Materials will be provided in advance of the workshop and large-print handouts are available if needed by notifying the organizers in advance. If we can help making learning easier for you (e.g., sign-language interpreters<!--, lactation facilities-->) please get in touch using the contact details below, and we will attempt to provide them.
 
 **Contact:** Please email [psych-methods-support@columbia.edu](mailto:psych-methods-support@columbia.edu){target="_blank"} for more information.
-
-## Surveys
-
----
-
-Please be sure to complete these surveys before and after the workshop.
-
-[Pre-Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSchEOWieJF5F391L5-fSC4DBCAJ1hOIbIUWiAWqyfZC9gzBAQ/viewform?usp=sf_link){target="_blank"}
-
-[Post-Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSe4iqiAev5qqmQfoL7hxFVzlihEKzjthKv0wLOipsjaad88FQ/viewform?usp=sf_link){target="_blank"}
 
 ## Schedule
 
@@ -90,6 +80,16 @@ Please be sure to complete these surveys before and after the workshop.
 </table>
 </div>
 </div>
+
+## Surveys
+
+---
+
+Please be sure to complete these surveys before and after the workshop.
+
+[Pre-Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSchEOWieJF5F391L5-fSC4DBCAJ1hOIbIUWiAWqyfZC9gzBAQ/viewform?usp=sf_link){target="_blank"}
+
+[Post-Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSe4iqiAev5qqmQfoL7hxFVzlihEKzjthKv0wLOipsjaad88FQ/viewform?usp=sf_link){target="_blank"}
 
 ## Setup
 

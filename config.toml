@@ -25,20 +25,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
   [[menu.main]]
-  name = "Who We Are"
-  url = "/who/"
+  name = "Schedule"
+  url = "/schedule/"
   weight = 200
-  [[menu.main]]
-  name = "Workshop"
-  url = "/workshop/"
-  weight = 300
-  [[menu.main]]
-  name = "Meetings"
-  url = "/meetings/"
-  weight = 400
   [[menu.main]]
   name = "Resources"
   url = "/resources/"
+  weight = 300
+  [[menu.main]]
+  name = "Housing"
+  url = "/housing/"
+  weight = 400
+  [[menu.main]]
+  name = "Who We Are"
+  url = "/who/"
   weight = 500
 
 [markup]
