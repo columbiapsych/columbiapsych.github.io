@@ -10,7 +10,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Welcome!
+# Welcome, Prospective Students!
 
 ## Individual Scientific Computing Support
 
