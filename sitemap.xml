@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>/meetings/</loc>
+    <loc>/housing/</loc>
   </url>
   
   <url>
@@ -23,15 +23,15 @@
   </url>
   
   <url>
+    <loc>/schedule/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
   <url>
     <loc>/who/</loc>
-  </url>
-  
-  <url>
-    <loc>/workshop/</loc>
   </url>
   
   <url>

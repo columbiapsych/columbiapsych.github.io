@@ -44,7 +44,7 @@
   
 
   
-  <title>Meetings | Columbia Psychology: Prospective Students&#39; Day</title>
+  <title>Housing | Columbia Psychology: Prospective Students&#39; Day</title>
   
 
   <style>
@@ -427,36 +427,71 @@ button:focus {
   <div class="container">
     <article>
       
-<script src="../rmarkdown-libs/accessible-code-block/empty-anchor.js"></script>
 <link href="../rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
 <script src="../rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
 
 
-<div id="meetings" class="section level1">
-<h1>Meetings</h1>
+<div id="housing" class="section level1">
+<h1>Housing</h1>
 <p>Come and learn with us at one of our meetings! Topics span various early-intermediate to advanced strategies for asking psychological research questions using scientific computing tools.</p>
-<div id="upcoming" class="section level2">
-<h2>Upcoming</h2>
-<hr />
-<div id="workshop-creating-a-website-with-github-and-r" class="section level3">
-<h3>Workshop: Creating a Website with Github and R</h3>
-<p><strong>Date:</strong> Wednesday, February 10th, 2021 at 4:00pm</p>
-<p><strong>Instructor:</strong> Emily Nakkawita</p>
 </div>
-<div id="workshop-confidence-intervals" class="section level3">
-<h3>Workshop: Confidence Intervals</h3>
-<p><strong>Date:</strong> Wednesday, March 17th, 2021 at 4:00pm</p>
-<p><strong>Instructors:</strong> Monica Thieu and Paul Bloom</p>
+<div id="workshop-recording-session-1" class="section level1">
+<h1>Workshop Recording: Session 1</h1>
+<div class="video-container">
+<div id="player">
+
 </div>
 </div>
-<div id="past" class="section level2">
-<h2>Past</h2>
-<hr />
-<div id="round-table-discussion-online-experiments" class="section level3">
-<h3>Round-Table Discussion: Online Experiments</h3>
-<p><strong>Date:</strong> Wednesday, November 18th, 2020 at 4:00pm</p>
-<p><strong>Moderators:</strong> Hannah Tarder-Stoll and Emily Nakkawita</p>
-</div>
+<script>
+  var tag = document.createElement('script');
+
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  var player;
+  var ytSeconds = 0;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      height: '390',
+      width: '640',
+      videoId: 'h52nyfxQ6hc',
+      playerVars: { 
+        'color': "white",
+        'showinfo': 0,
+        'rel': 0
+      },
+      events: {
+        'onStateChange': onPlayerStateChange
+      }
+    });
+  }
+  
+  function onPlayerStateChange(e) {
+    if (e.data == 1 && ytSeconds > 0) {
+      e.target.seekTo(ytSeconds);
+      ytSeconds = 0;
+    }
+  }
+  
+  function seekTo(seconds) {
+    if (player.getPlayerState() == 1) {
+      player.seekTo(seconds);
+    }
+    else {
+      ytSeconds = seconds;
+      player.playVideo();
+    }
+  }
+</script>
+<div id="session-1-tutorials" class="section level3">
+<h3>Session 1 Tutorials:</h3>
+<p><em>Click on the timestamp to jump to the beginning of the tutorial.</em></p>
+<ul>
+<li>Programming in R, Part 0: <a href="#" onclick="seekTo(5);">0:00:05</a> [<a href="../tutorials/r-core/1-programming/lessonpart0/" target="_blank">Materials</a>]</li>
+<li>Programming in R, Part 1: <a href="#" onclick="seekTo(4330);">1:12:10</a> [<a href="../tutorials/r-core/1-programming/lessonpart1/" target="_blank">Materials</a>]</li>
+<li>Programming in R, Part 2: <a href="#" onclick="seekTo(8016);">2:13:36</a> [<a href="../tutorials/r-core/1-programming/lessonpart2/" target="_blank">Materials</a>]</li>
+</ul>
 </div>
 </div>
 
@@ -466,7 +501,7 @@ button:focus {
 </body>
 
 <footer class="footer">
-  © 2021 Columbia Psychology Scientific Computing
+  © 2021 Columbia Psychology
   <script src="//yihui.org/js/math-code.js"></script>
   <script async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">

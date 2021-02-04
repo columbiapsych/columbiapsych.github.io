@@ -375,27 +375,9 @@ button:focus {
           
               
         <li class="nav-item">
-          <a class="nav-link" href="./who/">
+          <a class="nav-link" href="./schedule/">
             
-              <span>Who We Are</span>
-          </a>
-        </li>
-          
-        
-              
-        <li class="nav-item">
-          <a class="nav-link" href="./workshop/">
-            
-              <span>Workshop</span>
-          </a>
-        </li>
-          
-        
-              
-        <li class="nav-item">
-          <a class="nav-link" href="./meetings/">
-            
-              <span>Meetings</span>
+              <span>Schedule</span>
           </a>
         </li>
           
@@ -405,6 +387,24 @@ button:focus {
           <a class="nav-link" href="./resources/">
             
               <span>Resources</span>
+          </a>
+        </li>
+          
+        
+              
+        <li class="nav-item">
+          <a class="nav-link" href="./housing/">
+            
+              <span>Housing</span>
+          </a>
+        </li>
+          
+        
+              
+        <li class="nav-item">
+          <a class="nav-link" href="./who/">
+            
+              <span>Who We Are</span>
           </a>
         </li>
           
@@ -441,26 +441,66 @@ button:focus {
 <div id="individual-scientific-computing-support" class="section level2">
 <h2>Individual Scientific Computing Support</h2>
 <hr />
-<p>Columbia University psychology graduate students can stop by to chat about using computing tools at any stage of the research process. Use cases include, but are not limited to:</p>
+<p>Welcome blurb here. We’re excited you’re here. On this site, you’ll find stuff.</p>
+<p>Quick links:</p>
 <ul>
-<li>Conducting pre-study power analysis</li>
-<li>Setting up tools for administering tasks in-person and online</li>
-<li>Cleaning and analyzing data</li>
-<li>Preparing presentations and manuscripts</li>
+<li>Kumospace</li>
+<li>Slack channel</li>
 </ul>
-<p>During the Spring 2021 semester, the <a href="./who/">graduate methods support advisors</a> will be holding office hours by appointment. To schedule a time that works well for you, or for email support, please contact <a href="mailto:psych-methods-support@columbia.edu" target="_blank">psych-methods-support@columbia.edu</a>.</p>
+<p>If any questions arise during your visit, reach out to us anytime <a href="mailto:psych-methods-support@columbia.edu" target="_blank">here</a>.</p>
 </div>
-<div id="ongoing-meetings-and-workshops" class="section level2">
-<h2>Ongoing Meetings and Workshops</h2>
+<div id="events-for-today" class="section level2">
+<h2>Events for Today</h2>
 <hr />
-<p>Our next workshop, <em>Creating Websites in Github and R</em>, is scheduled for February 10th, 2021, at 4 pm. For more information, visit the <a href="./meetings/">Meetings</a> page.</p>
+<p>[Schedule]</p>
+<p>To see the full schedule for Prospective Studnets’ weekeend, see the <a href="./schedule/">Schedule</a> page.</p>
+<div class="video-container">
+<div id="player">
+
 </div>
-<div id="here-is-an-image" class="section level2">
-<h2>Here Is an Image!</h2>
-<hr />
-<p style="text-align:center;">
-<img src="./images/funplot.png" alt="R is fun" width = "65%" height = "65%">
-</p>
+</div>
+<script>
+  var tag = document.createElement('script');
+
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  var player;
+  var ytSeconds = 0;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      height: '390',
+      width: '640',
+      videoId: 'h52nyfxQ6hc',
+      playerVars: { 
+        'color': "white",
+        'showinfo': 0,
+        'rel': 0
+      },
+      events: {
+        'onStateChange': onPlayerStateChange
+      }
+    });
+  }
+  
+  function onPlayerStateChange(e) {
+    if (e.data == 1 && ytSeconds > 0) {
+      e.target.seekTo(ytSeconds);
+      ytSeconds = 0;
+    }
+  }
+  
+  function seekTo(seconds) {
+    if (player.getPlayerState() == 1) {
+      player.seekTo(seconds);
+    }
+    else {
+      ytSeconds = seconds;
+      player.playVideo();
+    }
+  }
+</script>
 </div>
 </div>
 
@@ -470,7 +510,7 @@ button:focus {
 </body>
 
 <footer class="footer">
-  © 2021 Columbia Psychology Scientific Computing
+  © 2021 Columbia Psychology
   <script src="//yihui.org/js/math-code.js"></script>
   <script async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
