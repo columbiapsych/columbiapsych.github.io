@@ -10,9 +10,8 @@ output:
 <script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
 
 
-<div id="welcome-prospective-students" class="section level2">
-<h2>Welcome, Prospective Students!</h2>
-<hr />
+<div id="welcome-prospective-students" class="section level1">
+<h1>Welcome, Prospective Students!</h1>
 <p>Welcome blurb here. We’re excited you’re here. On this site, you’ll find stuff.</p>
 <p>Quick links:</p>
 <ul>
@@ -20,7 +19,6 @@ output:
 <li>Slack channel</li>
 </ul>
 <p>If any questions arise during your visit, reach out to us anytime <a href="mailto:psych-methods-support@columbia.edu" target="_blank">here</a>.</p>
-</div>
 <div id="events-for-today" class="section level2">
 <h2>Events for Today</h2>
 <hr />
@@ -77,50 +75,8 @@ Lunch
 <h2>Welcome Video</h2>
 <hr />
 <div class="video-container">
-<div id="player">
-
+<iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
 </div>
 </div>
-<script>
-  var tag = document.createElement('script');
-
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  var player;
-  var ytSeconds = 0;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '390',
-      width: '640',
-      videoId: 'h52nyfxQ6hc',
-      playerVars: { 
-        'color': "white",
-        'showinfo': 0,
-        'rel': 0
-      },
-      events: {
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-  
-  function onPlayerStateChange(e) {
-    if (e.data == 1 && ytSeconds > 0) {
-      e.target.seekTo(ytSeconds);
-      ytSeconds = 0;
-    }
-  }
-  
-  function seekTo(seconds) {
-    if (player.getPlayerState() == 1) {
-      player.seekTo(seconds);
-    }
-    else {
-      ytSeconds = seconds;
-      player.playVideo();
-    }
-  }
-</script>
 </div>

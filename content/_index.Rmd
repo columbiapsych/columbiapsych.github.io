@@ -10,9 +10,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Welcome, Prospective Students!
-
----
+# Welcome, Prospective Students!
 
 Welcome blurb here. We're excited you're here. On this site, you'll find stuff.
 
@@ -44,49 +42,4 @@ To see the full schedule for Prospective Students' weekeend, see the  [Schedule]
 
 ---
 
-<div class="video-container">
-  <div id="player"></div>
-</div>
-
-<script>
-  var tag = document.createElement('script');
-
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  var player;
-  var ytSeconds = 0;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '390',
-      width: '640',
-      videoId: 'h52nyfxQ6hc',
-      playerVars: { 
-        'color': "white",
-        'showinfo': 0,
-        'rel': 0
-      },
-      events: {
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-  
-  function onPlayerStateChange(e) {
-    if (e.data == 1 && ytSeconds > 0) {
-      e.target.seekTo(ytSeconds);
-      ytSeconds = 0;
-    }
-  }
-  
-  function seekTo(seconds) {
-    if (player.getPlayerState() == 1) {
-      player.seekTo(seconds);
-    }
-    else {
-      ytSeconds = seconds;
-      player.playVideo();
-    }
-  }
-</script>
+<div class="video-container"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>

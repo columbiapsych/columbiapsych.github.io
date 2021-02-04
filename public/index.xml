@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/housing/</guid>
-      <description>Housing Come and learn with us at one of our meetings! Topics span various early-intermediate to advanced strategies for asking psychological research questions using scientific computing tools.
- Workshop Recording: Session 1    var tag = document.createElement(&#39;script&#39;); tag.src = &#34;https://www.youtube.com/iframe_api&#34;; var firstScriptTag = document.getElementsByTagName(&#39;script&#39;)[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; var ytSeconds = 0; function onYouTubeIframeAPIReady() { player = new YT.Player(&#39;player&#39;, { height: &#39;390&#39;, width: &#39;640&#39;, videoId: &#39;h52nyfxQ6hc&#39;, playerVars: { &#39;color&#39;: &#34;</description>
+      <description>Housing The university offers housing to graduate students for up to five years in apartment buildings near campus. There are several different kinds of units available, including apartment shares, studios, one bedrooms (for students who live with a spouse), and larger units (for students with children). For more specifics on the different kinds of units and eligibility, we recommend checking out the Columbia Residential website.
+To give you a better sense of what it’s like to live in Morningside Heights, several students in the program have created video tours featuring their Columbia housing.</description>
     </item>
     
     <item>

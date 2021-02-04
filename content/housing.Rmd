@@ -12,61 +12,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Housing
 
-Come and learn with us at one of our meetings! Topics span various early-intermediate to advanced strategies for asking psychological research questions using scientific computing tools.
+The university offers housing to graduate students for up to five years in apartment buildings near campus. There are several different kinds of units available, including apartment shares, studios, one bedrooms (for students who live with a spouse), and larger units (for students with children). For more specifics on the different kinds of units and eligibility, we recommend checking out [the Columbia Residential website](https://residential.columbia.edu/content/students/accommodations){target="_blank"}.
 
-# Workshop Recording: Session 1
+To give you a better sense of what it's like to live in Morningside Heights, several students in the program have created video tours featuring their Columbia housing. Please see below!
 
-<div class="video-container">
-  <div id="player"></div>
-</div>
+## Video Tours
 
-<script>
-  var tag = document.createElement('script');
+---
 
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+### Studio Apartment
 
-  var player;
-  var ytSeconds = 0;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '390',
-      width: '640',
-      videoId: 'h52nyfxQ6hc',
-      playerVars: { 
-        'color': "white",
-        'showinfo': 0,
-        'rel': 0
-      },
-      events: {
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-  
-  function onPlayerStateChange(e) {
-    if (e.data == 1 && ytSeconds > 0) {
-      e.target.seekTo(ytSeconds);
-      ytSeconds = 0;
-    }
-  }
-  
-  function seekTo(seconds) {
-    if (player.getPlayerState() == 1) {
-      player.seekTo(seconds);
-    }
-    else {
-      ytSeconds = seconds;
-      player.playVideo();
-    }
-  }
-</script>
+<div class="video-container"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
-### Session 1 Tutorials:
+### One-Bedroom Apartment
 
-*Click on the timestamp to jump to the beginning of the tutorial.*
-
-- Programming in R, Part 0: <a href="#" onclick="seekTo(5);">0:00:05</a> [<a href="/tutorials/r-core/1-programming/lessonpart0/" target="_blank">Materials</a>]
-- Programming in R, Part 1: <a href="#" onclick="seekTo(4330);">1:12:10</a> [<a href="/tutorials/r-core/1-programming/lessonpart1/" target="_blank">Materials</a>]
-- Programming in R, Part 2: <a href="#" onclick="seekTo(8016);">2:13:36</a> [<a href="/tutorials/r-core/1-programming/lessonpart2/" target="_blank">Materials</a>]
+<div class="video-container"><iframe width="640" height="390" src="https://www.youtube.com/embed/b_8QeK5fIH4?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
