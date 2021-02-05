@@ -18,7 +18,7 @@ We're thrilled that you're here. On this site, you will find everything you need
 
 ---
 
-<div class="row" style="padding-left: 15px; padding-right: 15px;">
+<div class="row">
 <div class="col-md-9">
 <h3 style="padding-top: 30px; margin-top: 0;">Today's Events (Wednesday, 2/17):</h3>
 <table class="table table-striped">
@@ -34,12 +34,13 @@ We're thrilled that you're here. On this site, you will find everything you need
 <tr><td>1:15p - 2:25p</td><td><b>Faculty Meeting 3</b></td><td>Zoom (see email)</td></tr>
 <tr><td>2:30p - 3:10p</td><td><b>Faculty Meeting 4</b></td><td>Zoom (see email)</td></tr>
 </table>
-To see the full schedule for Prospective Students' weekeend, see the  [Schedule](/schedule/) page.
+To see the full schedule for Prospective Student Days, see the [Schedule](/schedule) page.
 </div>
 <div class="col-md-3">
 <h3 style="padding-top: 30px; margin-top: 0;">Important Links:</h3>
-- **[Kumospace](https://www.kumospace.com/prospectives){target="_blank"}**: Social events
-- **Slack**: Ongoing support
+- **[Kumospace](https://www.kumospace.com/prospectives){target="_blank"}**<br>(Social events)
+- **[Slack](https://slack.com){target="_blank"}**<br>(Ongoing support)
+- **Zoom**<br>Links will vary for Zoom meetings; see the [Schedule](/schedule) page for group meetings and your email for individual meetings
 
 For more information on these links, see the [Resources](/resources) page.
 </div>
