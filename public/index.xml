@@ -5,11 +5,7 @@
     <link>/</link>
     <description>Recent content in Home on Columbia Psychology: Prospective Student Days</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pets and Mascots</title>
       <link>/pets/</link>

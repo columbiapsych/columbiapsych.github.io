@@ -12,19 +12,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Welcome, Prospective Students!
 
-We're thrilled that you're here. On this site, you will find everything you need for Prospective Student Days with the Columbia University psychology department. If any questions arise during your virtual visit, reach out to us anytime via [Slack](https://slack.com) or [email](mailto:psych-methods-support@columbia.edu){target="_blank"}.
+We're thrilled that you're here! On this site, you will find everything you need to help you navigate through your (virtual) Prospective Student Visit with theColumbia University psychology department. 
+
+If any questions arise during your visit, please feel fre reach out to us any time, either using our [Slack channel](https://slack.com), or by contacting one of the Prospectives Visit coordinators: [Jacob Edwards](mailto:je2527@columbia.edu){target="_blank"}, [Manasi Jayakumar](mailto:mj2873@columbia.edu){target="_blank"}, or [Anna Vannucci](mailto:av2902@columbia.edu){target="_blank"}.
 
 ## At a Glance
 
 ---
 
 <div class="row">
-<div class="col-md-9">
-<h3 style="padding-top: 30px; margin-top: 0;">Today's Events (Wednesday, 2/17):</h3>
+<div class="col-md-8">
+<h3 style="padding-top: 20px; margin-top: 0;">Today's Events (Wednesday, 2/17):</h3>
 <table class="table table-striped">
 <tr><td>6:00p onward</td><td><b>Welcome Social<br>(Prospective and Current<br>Graduate Students)</b></td><td><a href="https://www.kumospace.com/prospectives" target="_blank">Kumospace</a></td></tr>
 </table>
-<h3 style="padding-top: 30px; margin-top: 0;">Tomorrow's Events (Thursday, 2/18):</h3>
+<h3 style="padding-top: 20px; margin-top: 0;">Tomorrow's Events (Thursday, 2/18):</h3>
 <table class="table table-striped">
 <tr><td>10:00a - 10:30a</td><td><b>Information Session</b></td><td><a href="https://columbiauniversity.zoom.us/j/91757475604?pwd=QXNyd3RoSHJOb2JxbFpmaEhZN21UUT09" target="_blank">Zoom</a></td></tr>
 <tr><td>10:30a - 11:00a</td><td>Break</td><td></td></tr>
@@ -36,11 +38,11 @@ We're thrilled that you're here. On this site, you will find everything you need
 </table>
 To see the full schedule for Prospective Student Days, see the [Schedule](/schedule) page.
 </div>
-<div class="col-md-3">
-<h3 style="padding-top: 30px; margin-top: 0;">Important Links:</h3>
-- **[Kumospace](https://www.kumospace.com/prospectives){target="_blank"}**<br>(Social events)
-- **[Slack](https://slack.com){target="_blank"}**<br>(Ongoing support)
-- **Zoom**<br>Links will vary for Zoom meetings; see the [Schedule](/schedule) page for group meetings and your email for individual meetings
+<div class="col-md-4">
+<h3 style="padding-top: 20px; margin-top: 0;">Important Links:</h3>
+- **[Kumospace](https://www.kumospace.com/prospectives){target="_blank"}** (Social events)
+- **[Slack](https://slack.com){target="_blank"}** (Ongoing support)
+- **Zoom**: Links will vary for Zoom meetings; see the [Schedule](/schedule) page for group meetings and your email for individual meetings.
 
 For more information on these links, see the [Resources](/resources) page.
 </div>
