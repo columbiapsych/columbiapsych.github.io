@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Resources
 
-During Prospective Student Days, we will use a few different platforms to facilitate your virtual visit:
+During Prospective Student Days, we will use a few different platforms to facilitate your virtual visit. If you have any questions about how to use them, or if you experience any unforeseen technical difficulties, please don't hesitate to let us know!
 
 ## Kumospace
 
@@ -26,6 +26,8 @@ During Prospective Student Days, we will use a few different platforms to facili
 Kumospace is an immersive video chat platform that allows people to mingle within a virtual event space. During Prospective Student Days, our social events will take place on Kumospace at [this link](https://www.kumospace.com/prospectives){target="_blank"}.
 
 After logging in, you can move about the virtual room using your computer's arrow keys. You will be able to hear the people close to you in the virtual space, and as you move away from them, their audio will fade out. This functionality will allow everyone to mix and mingle in different groups!
+
+**Download link?** None needed! Just follow the link above, and make sure you grant Kumospace permission to access your webcam and microphone.
 </div>
 </div>
 
@@ -41,6 +43,8 @@ After logging in, you can move about the virtual room using your computer's arro
 Slack is a digital messaging platform that allows for text-based conversations. During Prospective Student Days, graduate students will be available on [this dedicated Slack Channel](https://www.slack.com){target="_blank"}.
 
 We welcome you to stop by anytime throughout your virtual visit! We would be happy to to help you find where you need to go next, answer questions about the program, discuss life in New York City, or chat about your research interests.
+
+**Download link?** Use Slack directly in your web browser, or download the desktop app [here](https://slack.com/downloads){target="_blank"}.
 </div>
 </div>
 
@@ -56,5 +60,7 @@ We welcome you to stop by anytime throughout your virtual visit! We would be hap
 Zoom is a video conferencing platform that allows for both one-on-one and group meetings. During Prospective Student Days, you will use Zoom to access most of your meetings.
 
 Keep in mind that while the Zoom links for all group meetings are located on the [Schedule](/schedule) page, links to your individual meetings with faculty can be found in the email we sent you with your personal schedule.
+
+**Download link?** [Here](https://zoom.us/download){target="_blank"}!
 </div>
 </div>
