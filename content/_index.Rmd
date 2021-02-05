@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 <div class="col-md-10">**We're thrilled that you're here!** On this site, you will find everything you need to help you navigate through your (virtual) Prospective Student Visit with the [Columbia University Psychology Department](https://psychology.columbia.edu/){target="_blank"}. 
 
-If any questions arise during your visit, please feel free reach out to us any time, either using our [Slack channel](https://slack.com){target="_blank"}, or by contacting one of the Prospectives Visit coordinators via email: [Jacob Edwards](mailto:je2527@columbia.edu){target="_blank"}, [Manasi Jayakumar](mailto:mj2873@columbia.edu){target="_blank"}, and [Anna Vannucci](mailto:av2902@columbia.edu){target="_blank"}.
+If any questions arise during your visit, please feel free to reach out to us any time, either by using our [Slack channel](https://slack.com){target="_blank"}, or by contacting one of the Prospectives Event coordinators via email: [Jacob Edwards](mailto:je2527@columbia.edu){target="_blank"}, [Manasi Jayakumar](mailto:mj2873@columbia.edu){target="_blank"}, and [Anna Vannucci](mailto:av2902@columbia.edu){target="_blank"}.
 </div>
 </div>
 
