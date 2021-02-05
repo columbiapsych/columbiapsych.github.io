@@ -1,6 +1,6 @@
 baseURL = "https://columbiapsych.github.io/"
 languageCode = "en-us"
-title = "Columbia Psychology: Prospective Students' Day"
+title = "Columbia Psychology: Prospective Student Days"
 theme = "minimal-bootstrap-hugo-theme"
 relativeURLs = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:slug/"
 
 [params]
-  description = "Columbia Psychology: Prospective Students' Day"
+  description = "Columbia Psychology: Prospective Student Days"
   customDateFormat = "Jan 2, 2006"
   customCodeStyle = true
   customBlockquoteStyle = true
@@ -25,20 +25,24 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
   [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 100
+  [[menu.main]]
   name = "Schedule"
-  url = "/schedule/"
+  url = "/schedule"
   weight = 200
   [[menu.main]]
   name = "Resources"
-  url = "/resources/"
+  url = "/resources"
   weight = 300
   [[menu.main]]
-  name = "Housing"
-  url = "/housing/"
+  name = "Virtual Tour"
+  url = "/tour"
   weight = 400
   [[menu.main]]
-  name = "Who We Are"
-  url = "/who/"
+  name = "Pets and Mascots"
+  url = "/pets"
   weight = 500
 
 [markup]

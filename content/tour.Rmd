@@ -1,0 +1,53 @@
+---
+title: "Virtual Tour"
+author: "Columbia Psychology"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Virtual Tour
+
+## Campus
+
+---
+
+Although Columbia University was established in 1754, it moved throughout New York City several times before settling in its current location in 1897. Schermerhorn Hall, the location of the psychology department, is one of the original buildings in this current location. To learn more, check out the following virtual tour!
+
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+
+## Morningside Heights
+
+---
+
+Columbia is located in the Morningside Heights, which is nestled between the Upper West Side and Harlem in the borough of Manhattan. Check out the video below to get a better sense of our neighborhood!
+
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+
+## MBBI
+
+---
+
+Columbia recently opened its 450,000-square-foot home to the Mortimer B. Zuckerman Mind Brain Behavior Institute in 2017. This state-of-the-art facility features three fMRI machines and houses several of the department's labs.
+
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+
+## Housing
+
+---
+
+The university offers housing to graduate students for up to five years in apartment buildings near campus. There are several different kinds of units available, including apartment shares, studios, one bedrooms (for students who live with a spouse), and larger units (for students with children). For more specifics on the different kinds of units and eligibility, we recommend checking out [the Columbia Residential website](https://residential.columbia.edu/content/students/accommodations){target="_blank"}.
+
+To give you a better sense of what it's like to live in Morningside Heights, several students in the program have created tours featuring their Columbia housing. Please see below!
+
+### Studio Apartment Tour with Wenxuan Guo (2nd Year):
+
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+
+### 1BR Apartment Tour with Emily Nakkawita (3rd Year):
+
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/b_8QeK5fIH4?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>

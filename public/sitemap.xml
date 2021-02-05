@@ -3,19 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/workshop-recording/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
   </url>
   
   <url>
-    <loc>/housing/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/recording/</loc>
+    <loc>/pets/</loc>
   </url>
   
   <url>
@@ -31,19 +23,7 @@
   </url>
   
   <url>
-    <loc>/who/</loc>
-  </url>
-  
-  <url>
-    <loc>/workshop-recording/session1/</loc>
-  </url>
-  
-  <url>
-    <loc>/workshop-recording/session2/</loc>
-  </url>
-  
-  <url>
-    <loc>/workshop-recording/session3/</loc>
+    <loc>/tour/</loc>
   </url>
   
 </urlset>
