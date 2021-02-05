@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Columbia Psychology: Prospective Students&#39; Day</title>
+    <title>Home on Columbia Psychology: Prospective Student Days</title>
     <link>/</link>
-    <description>Recent content in Home on Columbia Psychology: Prospective Students&#39; Day</description>
+    <description>Recent content in Home on Columbia Psychology: Prospective Student Days</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,13 +11,12 @@
     
     
     <item>
-      <title>Housing</title>
-      <link>/housing/</link>
+      <title>Pets and Mascots</title>
+      <link>/pets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/housing/</guid>
-      <description>Housing The university offers housing to graduate students for up to five years in apartment buildings near campus. There are several different kinds of units available, including apartment shares, studios, one bedrooms (for students who live with a spouse), and larger units (for students with children). For more specifics on the different kinds of units and eligibility, we recommend checking out the Columbia Residential website.
-To give you a better sense of what it’s like to live in Morningside Heights, several students in the program have created video tours featuring their Columbia housing.</description>
+      <guid>/pets/</guid>
+      <description>  Pets and Mascots          </description>
     </item>
     
     <item>
@@ -26,10 +25,8 @@ To give you a better sense of what it’s like to live in Morningside Heights, s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resources/</guid>
-      <description>  Resources Zoom Zoom is blah blah. During Prospective’s weekend, you’ll use it for the formal meetings.
- Cookbook for R: Basics of data cleaning, analysis and graphing   Kumospace Kumospace is blah blah. During Prospective’s weekend, you’ll use it for blah.
- Columbia Psychology scientific computing users Slack group   Slack Slack is blah blah. During Prospective’s weekend, you’ll use it for blah.
- Cookbook for R: Basics of data cleaning, analysis and graphing    </description>
+      <description>Resources Zoom  Zoom is a video conferencing platform that allows for both one-on-one and group meetings. During Prospective Student Days, you will use it for most of your meetings.
+Keep in mind that while the Zoom links for all common meetings are located on the Schedule page, links to your individual meetings with faculty can be found in the email we sent you with your personal schedule.</description>
     </item>
     
     <item>
@@ -38,44 +35,19 @@ To give you a better sense of what it’s like to live in Morningside Heights, s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>Schedule Instructors: Paul A. Bloom, Ana DiGiovanni, Camille Gasser, Manasi Jayakumar, Emily Nakkawita, Jonathan Nicholas, Matt Siegelman, Ben Silver, Hannah Tarder-Stoll, Monica Thieu, Anna Vannucci
- General Information This workshop develops and teaches the scientific computing skills needed to conduct psychological research. Its target audience is researchers who have little to no prior computational experience, and its lessons are psychology-specific, building on learners’ existing knowledge to enable them to quickly apply skills learned to their own research.</description>
+      <description>Schedule Wednesday, February 17th   6:00p onward   Welcome Social
+(Prospective and Current
+Graduate Students)   Kumospace      Thursday, February 18th   10:00a - 10:30a   Information Session   Zoom     10:30a - 11:00a   Break       11:00a - 11:40a   Faculty Meeting 1   Zoom (see email)     11:45a - 12:25p   Faculty Meeting 2   Zoom (see email)     12:30p - 1:10p   Break (Lunch)       1:15p - 2:25p   Faculty Meeting 3   Zoom (see email)     2:30p - 3:10p   Faculty Meeting 4   Zoom (see email)      Friday, February 19th   10:00a - 11:00a   Lab Meetings</description>
     </item>
     
     <item>
-      <title>Who We Are</title>
-      <link>/who/</link>
+      <title>Virtual Tour</title>
+      <link>/tour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/who/</guid>
-      <description>Who We Are 2020 - 2021 Graduate Methods Support Advisors Emily Nakkawita  Research interests: how goal pursuit processes differ based on individuals’ unique motivational orientations Method specialties: surveys, web-based response latency tasks Tool/language specialties: R, generating manuscripts with Papaja, Javascript/HTML customization in Qualtrics, M-Turk, Prolific Favorite NYC neighborhood: Park Slope   Hannah Tarder-Stoll  Research interests: how memory is flexibly used to predict future events at different timescales Method specialties: cognitive tasks (in-person and web-based), neuroimaging, virtual reality Tool/language specialties: R, Python, Unity, Inquisit Favorite NYC neighborhood: Astoria    Office hours will be held by appointment.</description>
-    </item>
-    
-    <item>
-      <title>Workshop Recording: Session 1</title>
-      <link>/workshop-recording/session1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshop-recording/session1/</guid>
-      <description>Workshop Recording: Session 1    var tag = document.createElement(&#39;script&#39;); tag.src = &#34;https://www.youtube.com/iframe_api&#34;; var firstScriptTag = document.getElementsByTagName(&#39;script&#39;)[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; var ytSeconds = 0; function onYouTubeIframeAPIReady() { player = new YT.Player(&#39;player&#39;, { height: &#39;390&#39;, width: &#39;640&#39;, videoId: &#39;h52nyfxQ6hc&#39;, playerVars: { &#39;color&#39;: &#34;white&#34;, &#39;showinfo&#39;: 0, &#39;rel&#39;: 0 }, events: { &#39;onStateChange&#39;: onPlayerStateChange } }); } function onPlayerStateChange(e) { if (e.data == 1 &amp;&amp; ytSeconds  0) { e.</description>
-    </item>
-    
-    <item>
-      <title>Workshop Recording: Session 2</title>
-      <link>/workshop-recording/session2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshop-recording/session2/</guid>
-      <description>Workshop Recording: Session 2    var tag = document.createElement(&#39;script&#39;); tag.src = &#34;https://www.youtube.com/iframe_api&#34;; var firstScriptTag = document.getElementsByTagName(&#39;script&#39;)[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; var ytSeconds = 0; function onYouTubeIframeAPIReady() { player = new YT.Player(&#39;player&#39;, { height: &#39;390&#39;, width: &#39;640&#39;, videoId: &#39;b_8QeK5fIH4&#39;, playerVars: { &#39;color&#39;: &#34;white&#34;, &#39;showinfo&#39;: 0, &#39;rel&#39;: 0 }, events: { &#39;onStateChange&#39;: onPlayerStateChange } }); } function onPlayerStateChange(e) { if (e.data == 1 &amp;&amp; ytSeconds  0) { e.</description>
-    </item>
-    
-    <item>
-      <title>Workshop Recording: Session 3</title>
-      <link>/workshop-recording/session3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshop-recording/session3/</guid>
-      <description>Workshop Recording: Session 3    var tag = document.createElement(&#39;script&#39;); tag.src = &#34;https://www.youtube.com/iframe_api&#34;; var firstScriptTag = document.getElementsByTagName(&#39;script&#39;)[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; var ytSeconds = 0; function onYouTubeIframeAPIReady() { player = new YT.Player(&#39;player&#39;, { height: &#39;390&#39;, width: &#39;640&#39;, videoId: &#39;e_F7Diu2EtU&#39;, playerVars: { &#39;color&#39;: &#34;white&#34;, &#39;showinfo&#39;: 0, &#39;rel&#39;: 0 }, events: { &#39;onStateChange&#39;: onPlayerStateChange } }); } function onPlayerStateChange(e) { if (e.data == 1 &amp;&amp; ytSeconds  0) { e.</description>
+      <guid>/tour/</guid>
+      <description>Virtual Tour Campus Although Columbia University was established in 1754, it moved throughout New York City several times before settling in its current location in 1897. Schermerhorn Hall, the location of the psychology department, is one of the original buildings in this current location. To learn more, check out the following virtual tour!
+   Morningside Heights Columbia is located in the Morningside Heights, which is nestled between the Upper West Side and Harlem in the borough of Manhattan.</description>
     </item>
     
   </channel>

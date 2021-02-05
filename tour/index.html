@@ -8,7 +8,7 @@
   <meta name="generator" content="Hugo 0.74.3" />
 
   
-  <meta name="description" content="Columbia Psychology: Prospective Students&#39; Day">
+  <meta name="description" content="Columbia Psychology: Prospective Student Days">
   
 
   
@@ -44,7 +44,7 @@
   
 
   
-  <title>Housing | Columbia Psychology: Prospective Students&#39; Day</title>
+  <title>Virtual Tour | Columbia Psychology: Prospective Student Days</title>
   
 
   <style>
@@ -53,7 +53,7 @@
   font-size:42px;
   font-weight:600;
   margin-top: -51px;
-  padding-top: 76px;
+  padding-top: 70px;
   padding-bottom: 25px;
 }
 
@@ -61,16 +61,16 @@
   font-size:32px;
   font-weight:600;
   margin-top: -51px;
-  padding-top: 99px;
-  padding-bottom: 16px;
+  padding-top: 70px;
+  padding-bottom: 10px;
 }
 
 .h3, h3 {
   font-size:22px;
   font-weight:600;
   margin-top: -51px;
-  padding-top: 81px;
-  padding-bottom: 16px;
+  padding-top: 65px;
+  padding-bottom: 10px;
 }
 
 .h4, h4 {
@@ -78,7 +78,7 @@
   font-weight:600;
   font-style:italic;
   margin-top: -51px;
-  padding-top: 61px;
+  padding-top: 60px;
   padding-bottom: 10px;
 }
 
@@ -356,13 +356,17 @@ button:focus {
   border: none;
 }
 
+a.anchor-section::before {
+  visibility: hidden;
+}
+
 </style>
 </head>
 
 <body data-spy="scroll" data-target="#toc">
   <nav class="navbar navbar-expand-lg navbar-light bg-ligh fixed-top">
   <div class="container responsive-menu">
-    <a class="navbar-brand" href="../">Columbia Psychology: Prospective Students&#39; Day</a>
+    <a class="navbar-brand" href="../">Columbia Psychology: Prospective Student Days</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
       aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars"></i>
@@ -373,36 +377,45 @@ button:focus {
           
               
         <li class="nav-item">
-          <a class="nav-link" href="../who/">
+          <a class="nav-link" href="../">
             
-              <span>Who We Are</span>
+              <span>Home</span>
           </a>
         </li>
           
         
               
         <li class="nav-item">
-          <a class="nav-link" href="../workshop/">
+          <a class="nav-link" href="../schedule">
             
-              <span>Workshop</span>
+              <span>Schedule</span>
           </a>
         </li>
           
         
               
         <li class="nav-item">
-          <a class="nav-link" href="../meetings/">
-            
-              <span>Meetings</span>
-          </a>
-        </li>
-          
-        
-              
-        <li class="nav-item">
-          <a class="nav-link" href="../resources/">
+          <a class="nav-link" href="../resources">
             
               <span>Resources</span>
+          </a>
+        </li>
+          
+        
+              
+        <li class="nav-item">
+          <a class="nav-link" href="../tour">
+            
+              <span>Virtual Tour</span>
+          </a>
+        </li>
+          
+        
+              
+        <li class="nav-item">
+          <a class="nav-link" href="../pets">
+            
+              <span>Pets and Mascots</span>
           </a>
         </li>
           
@@ -431,67 +444,54 @@ button:focus {
 <script src="../rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
 
 
-<div id="housing" class="section level1">
-<h1>Housing</h1>
-<p>Come and learn with us at one of our meetings! Topics span various early-intermediate to advanced strategies for asking psychological research questions using scientific computing tools.</p>
+<div id="virtual-tour" class="section level1">
+<h1>Virtual Tour</h1>
+<div id="campus" class="section level2">
+<h2>Campus</h2>
+<hr />
+<p>Although Columbia University was established in 1754, it moved throughout New York City several times before settling in its current location in 1897. Schermerhorn Hall, the location of the psychology department, is one of the original buildings in this current location. To learn more, check out the following virtual tour!</p>
+<div class="video-container" style="margin-bottom:50px">
+<iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
 </div>
-<div id="workshop-recording-session-1" class="section level1">
-<h1>Workshop Recording: Session 1</h1>
-<div class="video-container">
-<div id="player">
-
+</div>
+<div id="morningside-heights" class="section level2">
+<h2>Morningside Heights</h2>
+<hr />
+<p>Columbia is located in the Morningside Heights, which is nestled between the Upper West Side and Harlem in the borough of Manhattan. Check out the video below to get a better sense of our neighborhood!</p>
+<div class="video-container" style="margin-bottom:50px">
+<iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
 </div>
 </div>
-<script>
-  var tag = document.createElement('script');
-
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  var player;
-  var ytSeconds = 0;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '390',
-      width: '640',
-      videoId: 'h52nyfxQ6hc',
-      playerVars: { 
-        'color': "white",
-        'showinfo': 0,
-        'rel': 0
-      },
-      events: {
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-  
-  function onPlayerStateChange(e) {
-    if (e.data == 1 && ytSeconds > 0) {
-      e.target.seekTo(ytSeconds);
-      ytSeconds = 0;
-    }
-  }
-  
-  function seekTo(seconds) {
-    if (player.getPlayerState() == 1) {
-      player.seekTo(seconds);
-    }
-    else {
-      ytSeconds = seconds;
-      player.playVideo();
-    }
-  }
-</script>
-<div id="session-1-tutorials" class="section level3">
-<h3>Session 1 Tutorials:</h3>
-<p><em>Click on the timestamp to jump to the beginning of the tutorial.</em></p>
-<ul>
-<li>Programming in R, Part 0: <a href="#" onclick="seekTo(5);">0:00:05</a> [<a href="../tutorials/r-core/1-programming/lessonpart0/" target="_blank">Materials</a>]</li>
-<li>Programming in R, Part 1: <a href="#" onclick="seekTo(4330);">1:12:10</a> [<a href="../tutorials/r-core/1-programming/lessonpart1/" target="_blank">Materials</a>]</li>
-<li>Programming in R, Part 2: <a href="#" onclick="seekTo(8016);">2:13:36</a> [<a href="../tutorials/r-core/1-programming/lessonpart2/" target="_blank">Materials</a>]</li>
-</ul>
+<div id="mbbi" class="section level2">
+<h2>MBBI</h2>
+<hr />
+<p>Columbia recently opened its 450,000-square-foot home to the Mortimer B. Zuckerman Mind Brain Behavior Institute in 2017. This state-of-the-art facility features three fMRI machines and houses several of the department’s labs.</p>
+<div class="video-container" style="margin-bottom:50px">
+<iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
+</div>
+</div>
+<div id="housing" class="section level2">
+<h2>Housing</h2>
+<hr />
+<p>The university offers housing to graduate students for up to five years in apartment buildings near campus. There are several different kinds of units available, including apartment shares, studios, one bedrooms (for students who live with a spouse), and larger units (for students with children). For more specifics on the different kinds of units and eligibility, we recommend checking out <a href="https://residential.columbia.edu/content/students/accommodations" target="_blank">the Columbia Residential website</a>.</p>
+<p>To give you a better sense of what it’s like to live in Morningside Heights, several students in the program have created tours featuring their Columbia housing. Please see below!</p>
+<div id="studio-apartment-tour-with-wenxuan-guo-2nd-year" class="section level3">
+<h3>Studio Apartment Tour with Wenxuan Guo (2nd Year):</h3>
+<div class="video-container" style="margin-bottom:50px">
+<iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
+</div>
+</div>
+<div id="br-apartment-tour-with-emily-nakkawita-3rd-year" class="section level3">
+<h3>1BR Apartment Tour with Emily Nakkawita (3rd Year):</h3>
+<div class="video-container" style="margin-bottom:50px">
+<iframe width="640" height="390" src="https://www.youtube.com/embed/b_8QeK5fIH4?modestbranding=1&amp;showinfo=0&amp;rel=0&amp;theme=light&amp;color=white" frameborder="0">
+</iframe>
+</div>
+</div>
 </div>
 </div>
 
