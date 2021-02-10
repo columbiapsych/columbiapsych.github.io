@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>6:00p onward</td><td><b>Welcome Social<br>(Prospective and Current<br>Graduate Students)</b></td><td><a href="https://www.kumospace.com/prospectives" target="_blank">Kumospace</a></td></tr>
+<tr><td>6:00p onward</td><td><b>Welcome Social</b><br>(Prospective and Current<br>Graduate Students)</td><td><a href="https://www.kumospace.com/prospectives" target="_blank">Kumospace</a></td></tr>
 </table>
 </div>
 
