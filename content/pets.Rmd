@@ -80,7 +80,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <p style="text-align:center;"><img src="/images/rooney1.jpg"></p>
 </div>
 <div class="col-md-4">
-<p style="text-align:center;"><img src="/images/camille_tootsie2.jpg"></p>
+<p style="text-align:center;"><img src="/images/camille_olive.jpg"></p>
 </div>
 <div class="col-md-4">
 <p style="text-align:center;"><img src="/images/lila.jpg"></p>

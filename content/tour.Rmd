@@ -18,6 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Although Columbia University was established in 1754, it moved throughout New York City several times before settling in its current location in 1897. Schermerhorn Hall, the location of the psychology department, is one of the original buildings in this current location. To learn more, check out the following virtual tour!
 
+**Other useful resources**: [Columbia's Official Virtual Tour Website](https://undergrad.admissions.columbia.edu/visit/virtual-tours){target="_blank"}
+
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
 ## Morningside Heights
@@ -26,13 +28,15 @@ Although Columbia University was established in 1754, it moved throughout New Yo
 
 Columbia is located in the Morningside Heights, which is nestled between the Upper West Side and Harlem in the borough of Manhattan. Check out the video below to get a better sense of our neighborhood!
 
+**Other useful resources**: [A Guide to Morningside Heights as a CU Student](https://www.columbiaspectator.com/spectrum/2020/04/22/a-guide-to-morningside-heights-as-a-columbia-student/){target="_blank"}
+
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
 ## MBBI
 
 ---
 
-Columbia recently opened its 450,000-square-foot home to the Mortimer B. Zuckerman Mind Brain Behavior Institute in 2017. This state-of-the-art facility features three fMRI machines and houses several of the department's labs.
+Columbia recently opened its 450,000-square-foot home to the [Mortimer B. Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu/){target="_blank"} in 2017. This state-of-the-art facility features three fMRI machines and houses several of the department's labs.
 
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
@@ -44,7 +48,7 @@ The university offers housing to graduate students for up to five years in apart
 
 To give you a better sense of what it's like to live in Morningside Heights, several students in the program have created tours featuring their Columbia housing. Please see below!
 
-### One Bedroom Apartment Tour with Emily Nakkawita (3rd Year):
+### One Bedroom (Couples) Apartment Tour with Emily Nakkawita (3rd Year):
 
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/zdrlbkj6_7M?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
