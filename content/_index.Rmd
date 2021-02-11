@@ -28,11 +28,11 @@ If any questions arise during your visit, please feel free to reach out to us an
 
 <div class="row">
 <div class="col-md-8">
-<h3 style="padding-top: 20px; margin-top: 0;">Today's Events (Wednesday, 2/17):</h3>
+<h3 style="padding-top: 20px; margin-top: 0;">Day 1 (Wednesday, 2/17):</h3>
 <table class="table table-striped">
 <tr><td>6:00p onward</td><td><b>Welcome Social</b><br>(Prospective and Current<br>Graduate Students)</td><td><a href="https://www.kumospace.com/prospectives" target="_blank">Kumospace</a></td></tr>
 </table>
-<h3 style="padding-top: 20px; margin-top: 0;">Tomorrow's Events (Thursday, 2/18):</h3>
+<h3 style="padding-top: 20px; margin-top: 0;">Day 2 (Thursday, 2/18):</h3>
 <table class="table table-striped">
 <tr><td>10:00a - 10:30a</td><td><b>Information Session</b></td><td><a href="https://columbiauniversity.zoom.us/j/91757475604?pwd=QXNyd3RoSHJOb2JxbFpmaEhZN21UUT09" target="_blank">Zoom</a></td></tr>
 <tr><td>10:30a - 11:00a</td><td>Break</td><td></td></tr>
