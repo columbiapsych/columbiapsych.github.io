@@ -16,9 +16,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="col-md-2">
 <p style="text-align:center;"><img src="/images/culogo.png"></p>
 </div>
-<div class="col-md-10">**We're thrilled that you're here!** On this site, you will find everything you need to help you navigate through your (virtual) Prospective Student Visit with the [Columbia University Psychology Department](https://psychology.columbia.edu/){target="_blank"}. 
+<div class="col-md-10">**We're thrilled that you're here!** On this site, you will find everything you need to help you navigate through your (virtual) Prospective Visit Days with the [Columbia University Psychology Department](https://psychology.columbia.edu/){target="_blank"}. 
 
-If any questions arise during your visit, please feel free to reach out to us any time, either by using our [Slack channel](https://join.slack.com/t/prospie-2021/shared_invite/zt-mf2etqtd-b5INJm4ZXBQiH0nfu5kBsw){target="_blank"}, or by contacting one of the Prospectives Event coordinators via email: [Jacob Edwards](mailto:je2527@columbia.edu){target="_blank"}, [Manasi Jayakumar](mailto:mj2873@columbia.edu){target="_blank"}, and [Anna Vannucci](mailto:av2902@columbia.edu){target="_blank"}.
+If any questions arise, please feel free to reach out to us anytime, either by using our [Slack channel](https://join.slack.com/t/prospie-2021/shared_invite/zt-mf2etqtd-b5INJm4ZXBQiH0nfu5kBsw){target="_blank"}, or by contacting one of the Prospective Visit Days coordinators via email: [Jacob Edwards](mailto:je2527@columbia.edu){target="_blank"}, [Manasi Jayakumar](mailto:mj2873@columbia.edu){target="_blank"}, and [Anna Vannucci](mailto:av2902@columbia.edu){target="_blank"}.
 </div>
 </div>
 
@@ -44,7 +44,7 @@ If any questions arise during your visit, please feel free to reach out to us an
 <tr><td>2:25p - 3:00p</td><td>Break</td><td></td></tr>
 <tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe</td><td><a href="https://columbiauniversity.zoom.us/j/91757475604?pwd=QXNyd3RoSHJOb2JxbFpmaEhZN21UUT09" target="_blank">Zoom</a></td></tr>
 </table>
-To see the full schedule for Prospective Student Days, see the [Schedule](/schedule) page.
+To see the full schedule for Prospective Visit Days, see the [Schedule](/schedule) page.
 </div>
 <div class="col-md-4">
 <h3 style="padding-top: 20px; margin-top: 0;">How We'll Connect:</h3>
