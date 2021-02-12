@@ -1,6 +1,6 @@
 # Welcome
 
-This repository contains the code for the Columbia Psychology Prospective Students' Day website.
+This repository contains the code for the Columbia Psychology Prospective Visit Days website.
 
 **If you are a student looking for the website, please visit https://columbiapsych.github.io.**
 
