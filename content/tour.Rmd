@@ -20,7 +20,7 @@ Although Columbia University was established in 1754, it moved throughout New Yo
 
 **Other useful resources**: [Columbia's Official Virtual Tour Website](https://undergrad.admissions.columbia.edu/visit/virtual-tours){target="_blank"}
 
-<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+<div align="center">**video coming soon**</div>
 
 ## Morningside Heights
 
@@ -30,7 +30,7 @@ Columbia is located in the Morningside Heights, which is nestled between the Upp
 
 **Other useful resources**: [A Guide to Morningside Heights as a CU Student](https://www.columbiaspectator.com/spectrum/2020/04/22/a-guide-to-morningside-heights-as-a-columbia-student/){target="_blank"}
 
-<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+<div align="center">**video coming soon**</div>
 
 ## MBBI
 
@@ -38,7 +38,7 @@ Columbia is located in the Morningside Heights, which is nestled between the Upp
 
 Columbia recently opened its 450,000-square-foot home to the [Mortimer B. Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu/){target="_blank"} in 2017. This state-of-the-art facility features three fMRI machines and houses several of the department's labs.
 
-<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/38TA2FycU2c?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
 ## Housing
 

@@ -64,4 +64,4 @@ For more information on these tools, see the [Resources](/resources) page.
 
 Although we can't welcome you to campus in person this year, we've put together a video to help introduce you to the Columbia campus, the psychology department, and the people [(and pets!)](/pets) within it.
 
-<div class="video-container"><iframe width="640" height="390" src="https://www.youtube.com/embed/h52nyfxQ6hc?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+<div align="center">**video coming soon**</div>
