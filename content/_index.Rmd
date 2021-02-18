@@ -38,7 +38,7 @@ If any questions arise, please feel free to reach out to us anytime, either by u
 <tr><td>1:00p - 1:40p</td><td><b>Faculty Meeting 3</b></td><td>Zoom (see email)</td></tr>
 <tr><td>1:45p - 2:25p</td><td><b>Faculty Meeting 4</b></td><td>Zoom (see email)</td></tr>
 <tr><td>2:25p - 3:00p</td><td>Break</td><td></td></tr>
-<tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe</td><td><a href="https://columbiauniversity.zoom.us/j/91757475604?pwd=QXNyd3RoSHJOb2JxbFpmaEhZN21UUT09" target="_blank">Zoom</a></td></tr>
+<tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe</td><td><a href="https://columbiauniversity.zoom.us/j/99823210393?pwd=Q2FoQUxhcUxOazFPUC95aWlnWHdRdz09" target="_blank">Zoom</a></td></tr>
 </table>
 To see the full schedule for Prospective Visit Days, see the [Schedule](/schedule) page.
 </div>
