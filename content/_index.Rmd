@@ -28,11 +28,7 @@ If any questions arise, please feel free to reach out to us anytime, either by u
 
 <div class="row">
 <div class="col-md-8">
-<h3 style="padding-top: 20px; margin-top: 0;">Today (Wednesday, 2/17):</h3>
-<table class="table table-striped">
-<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td><a href="https://www.kumospace.com/cupsychgradmixer" target="_blank">Kumospace</a></td></tr>
-</table>
-<h3 style="padding-top: 20px; margin-top: 0;">Tomorrow (Thursday, 2/18):</h3>
+<h3 style="padding-top: 20px; margin-top: 0;">Today (Thursday, 2/18):</h3>
 <table class="table table-striped">
 <tr><td>10:00a - 10:30a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner</td><td><a href="https://columbiauniversity.zoom.us/j/91757475604?pwd=QXNyd3RoSHJOb2JxbFpmaEhZN21UUT09" target="_blank">Zoom</a></td></tr>
 <tr><td>10:30a - 10:40a</td><td>Break</td><td></td></tr>
@@ -62,6 +58,6 @@ For more information on these tools, see the [Resources](/resources) page.
 
 ---
 
-Although we can't welcome you to campus in person this year, we've put together a video to help introduce you to the Columbia campus, the psychology department, and the people [(and pets!)](/pets) within it.
+Although we can't welcome you to campus in person this year, we've put together a video to help introduce you to the Columbia campus, the psychology department, and the people within it.
 
-<div align="center">**video coming soon**</div>
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/gMBROQDs6-w?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>

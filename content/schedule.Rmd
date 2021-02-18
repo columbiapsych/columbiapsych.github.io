@@ -62,8 +62,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-- [Columbia Campus Tour](/tour#campus)
-- [Morningside Heights Neighborhood Tour](/tour#morningside-heights)
+- [Campus and Morningside Heights Tour](/tour#campus-and-morningside-heights)
 - [MBBI Tour](/tour#mbbi)
 - [Housing Tours](/tour#housing)
 - [Pets and Mascots](/pets)

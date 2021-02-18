@@ -12,25 +12,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Virtual Tour
 
-## Campus
+## Campus and Morningside Heights
 
 ---
 
-Although Columbia University was established in 1754, it moved throughout New York City several times before settling in its current location in 1897. Schermerhorn Hall, the location of the psychology department, is one of the original buildings in this current location. To learn more, check out the following virtual tour!
+Although Columbia University was established in 1754, it moved throughout New York City several times before settling in 1897 in its current location in Morningside Heights, which is nestled between the Upper West Side and Harlem in the borough of Manhattan. Schermerhorn Hall, the location of the psychology department, is one of the original buildings in this current location. To learn more about our department and the university, check out the following virtual tour!
 
-**Other useful resources**: [Columbia's Official Virtual Tour Website](https://undergrad.admissions.columbia.edu/visit/virtual-tours){target="_blank"}
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/gMBROQDs6-w?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
-<div align="center">**video coming soon**</div>
+**Other useful resources**:
 
-## Morningside Heights
-
----
-
-Columbia is located in the Morningside Heights, which is nestled between the Upper West Side and Harlem in the borough of Manhattan. Check out the video below to get a better sense of our neighborhood!
-
-**Other useful resources**: [A Guide to Morningside Heights as a CU Student](https://www.columbiaspectator.com/spectrum/2020/04/22/a-guide-to-morningside-heights-as-a-columbia-student/){target="_blank"}
-
-<div align="center">**video coming soon**</div>
+- [Columbia's Official Virtual Tour Website](https://undergrad.admissions.columbia.edu/visit/virtual-tours){target="_blank"}
+- [A Guide to Morningside Heights as a Columbia Student](https://www.columbiaspectator.com/spectrum/2020/04/22/a-guide-to-morningside-heights-as-a-columbia-student/){target="_blank"}
 
 ## MBBI
 
