@@ -28,7 +28,7 @@ If any questions arise, please feel free to reach out to us anytime, either by u
 
 <div class="row">
 <div class="col-md-8">
-<h3 style="padding-top: 20px; margin-top: 0;">Today (Friday, 2/19):</h3>
+<h3 style="padding-top: 20px; margin-top: 0;">Wednesday, 2/2:</h3>
 <table class="table table-striped">
 <tr><td>10:00a - 11:30a</td><td><b>Lab Meetings</b></td><td><a href="https://columbiauniversity.zoom.us/j/99823210393?pwd=Q2FoQUxhcUxOazFPUC95aWlnWHdRdz09" target="_blank">Zoom</a></td></tr>
 <tr><td>11:30a - 12:00p</td><td>Break</td><td></td></tr>
