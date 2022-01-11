@@ -12,23 +12,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Schedule
 
-## Wednesday, February 17th
+Please note that the schedule below is tentative and subject to change.
+
+## Wednesday, February 2nd
 
 ---
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td><a href="https://www.kumospace.com/cupsychgradmixer" target="_blank">Kumospace</a></td></tr>
+<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td>Link TBD</td></tr>
 </table>
 </div>
 
-## Thursday, February 18th
+## Thursday, February 3rd
 
 ---
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>10:00a - 10:30a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner, Department Chair [<a href="https://psychology.columbia.edu/content/kevin-ochsner" target="_blank">Faculty Profile</a>]</td><td><a href="https://columbiauniversity.zoom.us/j/91757475604?pwd=QXNyd3RoSHJOb2JxbFpmaEhZN21UUT09" target="_blank">Zoom</a></td></tr>
+<tr><td>10:00a - 10:30a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner, Department Chair [<a href="https://psychology.columbia.edu/content/kevin-ochsner" target="_blank">Faculty Profile</a>]</td><td>Zoom link TBD</td></tr>
 <tr><td>10:30a - 10:40a</td><td>Break</td><td></td></tr>
 <tr><td>10:40a - 11:20a</td><td><b>Faculty Meeting 1</b></td><td>Zoom (see email)</td></tr>
 <tr><td>11:25a - 12:05p</td><td><b>Faculty Meeting 2</b></td><td>Zoom (see email)</td></tr>
@@ -36,25 +38,25 @@ knitr::opts_chunk$set(echo = FALSE)
 <tr><td>1:00p - 1:40p</td><td><b>Faculty Meeting 3</b></td><td>Zoom (see email)</td></tr>
 <tr><td>1:45p - 2:25p</td><td><b>Faculty Meeting 4</b></td><td>Zoom (see email)</td></tr>
 <tr><td>2:25p - 3:00p</td><td>Break</td><td></td></tr>
-<tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/janet-metcalfe" target="_blank">Faculty Profile</a>]</td><td><a href="https://columbiauniversity.zoom.us/j/99823210393?pwd=Q2FoQUxhcUxOazFPUC95aWlnWHdRdz09" target="_blank">Zoom</a></td></tr>
+<tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/janet-metcalfe" target="_blank">Faculty Profile</a>]</td><td>Zoom link TBD</td></tr>
 </table>
 </div>
 
-## Friday, February 19th
+## Friday, February 4th
 
 ---
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>10:00a - 11:30a</td><td><b>Lab Meetings</b></td><td><a href="https://columbiauniversity.zoom.us/j/99823210393?pwd=Q2FoQUxhcUxOazFPUC95aWlnWHdRdz09" target="_blank">Zoom</a></td></tr>
+<tr><td>10:00a - 11:30a</td><td><b>Lab Meetings</b></td><td>Zoom link TBD</td></tr>
 <tr><td>11:30a - 12:00p</td><td>Break</td><td></td></tr>
-<tr><td>12:00p - 1:00p</td><td><b>DiversiTea</b></td><td><a href="https://www.kumospace.com/cupsychgradmixer" target="_blank">Kumospace</a></td></tr>
+<tr><td>12:00p - 1:00p</td><td><b>DiversiTea</b></td><td>Kumospace link TBD</td></tr>
 <tr><td>1:00p - 2:00p</td><td>Break (Lunch)</td><td></td></tr>
-<tr><td>2:00p - 3:00p</td><td><b>Q&A Session with Graduate Students</b></td><td><a href="https://columbiauniversity.zoom.us/j/99823210393?pwd=Q2FoQUxhcUxOazFPUC95aWlnWHdRdz09" target="_blank">Zoom</a></td></tr>
-<tr><td>3:00p - 4:00p</td><td><b>Q&A Session with Labs</b></td><td><a href="https://www.kumospace.com/cupsychsocial" target="_blank">Kumospace</a></td></tr>
+<tr><td>2:00p - 3:00p</td><td><b>Q&A Session with Graduate Students</b></td><td>Zoom link TBD</td></tr>
+<tr><td>3:00p - 4:00p</td><td><b>Q&A Session with Labs</b></td><td>Kumospace link TBD</td></tr>
 <tr><td>4:00p - 5:00p</td><td>Break</td><td></td></tr>
-<tr><td>5:00p - 6:00p</td><td><b>Faculty Show</b></td><td><a href="https://columbiauniversity.zoom.us/j/99823210393?pwd=Q2FoQUxhcUxOazFPUC95aWlnWHdRdz09" target="_blank">Zoom</a></td></tr>
-<tr><td>6:00p onward</td><td><b>Departmental Dinner</b></td><td><a href="https://www.kumospace.com/cupsychsocial" target="_blank">Kumospace</a></td></tr>
+<tr><td>5:00p - 6:00p</td><td><b>Faculty Show</b></td><td>Zoom link TBD</td></tr>
+<tr><td>6:00p onward</td><td><b>Departmental Dinner</b></td><td>Kumospace link TBD</td></tr>
 </table>
 </div>
 
