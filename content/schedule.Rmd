@@ -56,13 +56,14 @@ Please note that the schedule below is tentative and subject to change.
 <tr><td>3:00p - 4:00p</td><td><b>Q&A Session with Labs</b></td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
 <tr><td>4:00p - 5:00p</td><td>Break</td><td></td></tr>
 <tr><td>5:00p - 6:00p</td><td><b>Faculty Show</b></td><td>[Zoom](https://columbiauniversity.zoom.us/j/99783988354?pwd=amRZMzkxU0ErNEJKT3gzMXB1bnlvUT09){target="_blank"}</td></tr>
-<tr><td>6:00p onward</td><td><b>Departmental Dinner/Reception</b><br>Virtual Escape Room*</td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
+<tr><td>6:00p onward</td><td><b>Departmental Dinner/Reception</b><br>Virtual Escape Room*</td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"} /<p> Zoom (see note below)</td></tr>
 </table>
 </div>
-
+<div class="row">
 <div class="col-md-2"></div>
-<div class="col-md-8">
-<b>* As part of the Departmental Dinner/Reception,</b> we will be offering the chance to participate in a virtual "escape room" game via Zoom. The start time of this event will be announced in Kumospace. 
+<div class="col-md-10">
+<b>*As part of the Departmental Dinner/Reception,</b> we will be offering the chance to participate in a virtual "escape room" game via Zoom. Interested participants will congregate at [this Zoom link](https://columbiauniversity.zoom.us/j/98105172517?pwd=Y2VpL3RMS2g2Q05mQ0pFT0FhbWFIdz09). The exact start time of this event (along with the relevant Zoom link) will be announced in Kumospace — likely ~30 minutes after the reception begins. The escape room event is estimated to take ~40 minutes. 
+</div>
 </div>
 
 ## Choose Your Own Adventure!
