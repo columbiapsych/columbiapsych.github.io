@@ -20,7 +20,7 @@ Please note that the schedule below is tentative and subject to change.
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td>Link TBD</td></tr>
+<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
 </table>
 </div>
 
@@ -30,7 +30,7 @@ Please note that the schedule below is tentative and subject to change.
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>10:00a - 10:30a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner, Department Chair [<a href="https://psychology.columbia.edu/content/kevin-ochsner" target="_blank">Faculty Profile</a>]</td><td>Zoom link TBD</td></tr>
+<tr><td>10:00a - 10:30a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner, Department Chair [<a href="https://psychology.columbia.edu/content/kevin-ochsner" target="_blank">Faculty Profile</a>]</td><td>[Zoom](https://columbiauniversity.zoom.us/j/93185084798?pwd=VkY5Tm1Fa0VSME1xUmMxSmp4TTNCUT09){target="_blank"}</td></tr>
 <tr><td>10:30a - 10:40a</td><td>Break</td><td></td></tr>
 <tr><td>10:40a - 11:20a</td><td><b>Faculty Meeting 1</b></td><td>Zoom (see email)</td></tr>
 <tr><td>11:25a - 12:05p</td><td><b>Faculty Meeting 2</b></td><td>Zoom (see email)</td></tr>
@@ -38,7 +38,7 @@ Please note that the schedule below is tentative and subject to change.
 <tr><td>1:00p - 1:40p</td><td><b>Faculty Meeting 3</b></td><td>Zoom (see email)</td></tr>
 <tr><td>1:45p - 2:25p</td><td><b>Faculty Meeting 4</b></td><td>Zoom (see email)</td></tr>
 <tr><td>2:25p - 3:00p</td><td>Break</td><td></td></tr>
-<tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/janet-metcalfe" target="_blank">Faculty Profile</a>]</td><td>Zoom link TBD</td></tr>
+<tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/janet-metcalfe" target="_blank">Faculty Profile</a>]</td><td>[Zoom](https://columbiauniversity.zoom.us/j/99069021324?pwd=WjFWZXBKNWQ5Rld0M3RQQVVtem16Zz09){target="_blank"}</td></tr>
 </table>
 </div>
 
@@ -48,16 +48,21 @@ Please note that the schedule below is tentative and subject to change.
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>10:00a - 11:30a</td><td><b>Lab Meetings</b></td><td>Zoom link TBD</td></tr>
+<tr><td>10:00a - 11:30a</td><td><b>Lab Meetings</b></td><td><b>Cog Neuro:</b> [Zoom](https://columbiauniversity.zoom.us/j/92534552631?pwd=czFUeDQxditZYzQrczVWVG91UlFzdz09){target="_blank"}<br><b>Social:</b> [Zoom](https://columbiauniversity.zoom.us/j/93339861890?pwd=My84dnNOeTczOUEwZ3hsSkNxVEpsZz09){target="_blank"}</td></tr>
 <tr><td>11:30a - 12:00p</td><td>Break</td><td></td></tr>
-<tr><td>12:00p - 1:00p</td><td><b>DiversiTea</b></td><td>Kumospace link TBD</td></tr>
+<tr><td>12:00p - 1:00p</td><td><b>DiversiTea</b></td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
 <tr><td>1:00p - 2:00p</td><td>Break (Lunch)</td><td></td></tr>
-<tr><td>2:00p - 3:00p</td><td><b>Q&A Session with Graduate Students</b></td><td>Zoom link TBD</td></tr>
-<tr><td>3:00p - 4:00p</td><td><b>Q&A Session with Labs</b></td><td>Kumospace link TBD</td></tr>
+<tr><td>2:00p - 3:00p</td><td><b>Q&A Session with Graduate Students</b></td><td>[Zoom](https://columbiauniversity.zoom.us/j/97481662355?pwd=NXRGc25MSGo4QmsyQmkrcTcreWlkdz09){target="_blank"}</td></tr>
+<tr><td>3:00p - 4:00p</td><td><b>Q&A Session with Labs</b></td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
 <tr><td>4:00p - 5:00p</td><td>Break</td><td></td></tr>
-<tr><td>5:00p - 6:00p</td><td><b>Faculty Show</b></td><td>Zoom link TBD</td></tr>
-<tr><td>6:00p onward</td><td><b>Departmental Dinner</b></td><td>Kumospace link TBD</td></tr>
+<tr><td>5:00p - 6:00p</td><td><b>Faculty Show</b></td><td>[Zoom](https://columbiauniversity.zoom.us/j/99783988354?pwd=amRZMzkxU0ErNEJKT3gzMXB1bnlvUT09){target="_blank"}</td></tr>
+<tr><td>6:00p onward</td><td><b>Departmental Dinner/Reception</b><br>Virtual Escape Room*</td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
 </table>
+</div>
+
+<div class="col-md-2"></div>
+<div class="col-md-8">
+<b>* As part of the Departmental Dinner/Reception,</b> we will be offering the chance to participate in a virtual "escape room" game via Zoom. The start time of this event will be announced in Kumospace. 
 </div>
 
 ## Choose Your Own Adventure!

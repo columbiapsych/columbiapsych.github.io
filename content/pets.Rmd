@@ -103,5 +103,11 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="col-md-4">
 <p style="text-align:center;"><img src="/images/chris_darcy2.jpg"></p>
 </div>
+<div class="col-md-4">
+<p style="text-align:center;"><img src="/images/atom.jpg"></p>
+</div>
+<div class="col-md-4">
+<p style="text-align:center;"><img src="/images/christian_dog.jpg"></p>
+</div>
 </div>
 </div>
