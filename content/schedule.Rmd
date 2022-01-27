@@ -39,18 +39,22 @@ Please note that the schedule below is subject to minor changes.
 <tr><td>10:30a - 10:40a</td><td>Break</td><td></td></tr>
 <tr><td>10:40a - 11:20a</td><td><b>Faculty Meeting Slot 2</b></td><td>Zoom (see email)</td></tr>
 <tr><td>11:25a - 12:05p</td><td><b>Faculty Meeting Slot 3</b></td><td>Zoom (see email)</td></tr>
-<tr><td>12:05p - 1:00p</td><td>Break (Lunch)</td><td></td></tr>
-<tr><td>1:00p - 1:40p</td><td><b>Faculty Meeting Slot 4</b></td><td>Zoom (see email)</td></tr>
-<tr><td>1:45p - 2:25p</td><td><b>Faculty Meeting Slot 5</b></td><td>Zoom (see email)</td></tr>
-<tr><td>2:25p - 3:00p</td><td>Break / <i>Extra Faculty Meeting Slot</i></td><td>Zoom (see email)</td></tr>
+<tr><td>12:10p - 12:50p</td><td><b>Faculty Meeting Slot 4</b></td><td>Zoom (see email)</td></tr>
+<tr><td>12:55a - 1:35p</td><td><b>Faculty Meeting Slot 5</b></td><td>Zoom (see email)</td></tr>
+<tr><td>1:40p - 2:20p</td><td><b>Faculty Meeting Slot 6</b></td><td>Zoom (see email)</td></tr>
+<tr><td>2:25p - 3:00p</td><td><b>Faculty Meeting Slot 7</b></td><td>Zoom (see email)</td></tr>
 <tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/janet-metcalfe" target="_blank">Faculty Profile</a>]</td><td>[Zoom](https://columbiauniversity.zoom.us/j/99069021324?pwd=WjFWZXBKNWQ5Rld0M3RQQVVtem16Zz09){target="_blank"}</td></tr>
-<tr><td>3:45p - 4:25p</td><td><b>Faculty Meeting Slot 6</b></td><td>Zoom (see email)</td></tr>
+<tr><td>3:45p - 4:25p</td><td><b>Faculty Meeting Slot 8</b></td><td>Zoom (see email)</td></tr>
 </table>
 </div>
 
 ## Friday, February 4th
 
 ---
+
+<p>
+<b>Note:</b> Some candidates may have one of their faculty meetings scheduled in between the events listed below. Check your email for your personalized interview schedule.   
+<p><p>
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
