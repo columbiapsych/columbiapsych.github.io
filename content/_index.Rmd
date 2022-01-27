@@ -34,7 +34,7 @@ Until then, please browse the website as you please. You can see the full schedu
 </div>
 <div class="col-md-4">
 <h3 style="padding-top: 0px; margin-top: 0;">How We'll Connect:</h3>
-- **[Slack](https://join.slack.com/t/prospie-2021/shared_invite/zt-mf2etqtd-b5INJm4ZXBQiH0nfu5kBsw){target="_blank"}**: Ongoing support
+- **[Slack](https://join.slack.com/t/cu-prospectives-2022/shared_invite/zt-11arqkc7r-oclGLi3pWiVqVb4cssor1Q){target="_blank"}**: Ongoing support
 - **Kumospace**: Social events (links vary by event; see [Schedule](/schedule) page)
 - **Zoom**: Individual and group meetings (links vary by meeting; see [Schedule](/schedule) page for group meetings and your email for individual meetings)
 
