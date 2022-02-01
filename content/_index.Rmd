@@ -28,9 +28,20 @@ If any questions arise, please feel free to reach out to us anytime, either by u
 
 <div class="row">
 <div class="col-md-8">
-As the Prospective Visit Days progress, we will update this front page with the current day's schedule and any relevant links.
+
+### Wednesday, February 2nd
+
+---
+
+<div class="row" style="padding-left: 15px; padding-right: 15px;">
+<table class="table table-striped">
+<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
+</table>
+</div>
+<br>
+You can see the full schedule for all three days on the [Schedule](/schedule) page.
 <br><br>
-Until then, please browse the website as you please. You can see the full schedule for all three days on the [Schedule](/schedule) page, view our welcome video just below, check out our [Virtual Tours](/tour), or take a look at our department's adorable [Pets and Mascots](/schedule).
+We also encourage you to view our welcome video just below, check out our [Virtual Tours](/tour), or take a look at our department's adorable [Pets and Mascots](/schedule).
 </div>
 <div class="col-md-4">
 <h3 style="padding-top: 0px; margin-top: 0;">How We'll Connect:</h3>
