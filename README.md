@@ -19,7 +19,7 @@ This repository contains the code for the Columbia Psychology Prospective Visit 
     * Make sure you are in the `main` branch. If you are in `gh-pages`, switch to the `main` branch before working!
     * In RStudio, click the blue "Pull" arrow on the **Git** tab to ensure your computer has the latest versions of the website files from the remote Github repository, as someone else could have edited the site since you last accessed the files. This will sync any changes from the remote Github repository to your local instance.
     * Make your website revisions within the code in the `main` branch. As you are working, feel free to run the line `blogdown::serve_site()` to see a rendered version of the site that incorporates your revisions.
-    * Once you have completed your changes, run `blogdown::serve_site()` once more to make sure that all of your revisions have been incorporated and rendered properly.
+    * Once you have completed your changes, run `blogdown::build_site()`. This will update the `public` folder of your site, which contains the files used by Github to render the site.
     * Then, commit these changes within the **Git** tab, and click the green "Push" arrow to push them to the remote Github repository.
     * Finally, you will run a line of code that automatically pushes your revisions from `main\public` to `gh-pages`. To do this, you will need to use the command line (the "shell"). To do so, click the blue gear icon within the **Git** tab, and click **Shell...**. Within the command line prompt that opens, run the following line of code: `git subtree push --prefix public origin gh-pages`.
     * Your changes should now have been pushed live! Check them out at https://columbiapsych.github.io to be sure.
