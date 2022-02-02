@@ -31,7 +31,13 @@ Although Columbia University was established in 1754, it moved throughout New Yo
 
 Columbia recently opened its 450,000-square-foot home to the [Mortimer B. Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu/){target="_blank"} in 2017. This state-of-the-art facility features three fMRI machines and houses several of the department's labs.
 
+### MBBI Official 360º Video Tour
+
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/38TA2FycU2c?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+
+### MBBI Lab Tour with Wenxuan Guo (2nd Year)
+
+<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/Kn2XC6rD2Jo?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
 ## Housing
 
