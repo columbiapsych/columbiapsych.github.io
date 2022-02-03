@@ -28,20 +28,21 @@ If any questions arise, please feel free to reach out to us anytime, either by u
 
 <div class="row">
 <div class="col-md-8">
-
-### Wednesday, February 2nd
+### Thursday, February 3rd
 
 ---
 
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
+<tr><td>9:15a - 9:55a</td><td><b>Faculty Meeting Slot 1</b></i><br></td><td>Zoom (see email)</td></tr>
+<tr><td>10:00a - 10:30a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner</td><td>[Zoom](https://columbiauniversity.zoom.us/j/93185084798?pwd=VkY5Tm1Fa0VSME1xUmMxSmp4TTNCUT09){target="_blank"}</td></tr>
+<tr><td>10:30a - 10:40a</td><td>Break</td><td></td></tr>
+<tr><td>10:40a - 3:00p</td><td><b>Faculty Meeting Slots 2-7</b></td><td>Zoom (see email)</td></tr>
+<tr><td>3:00p - 3:30p</td><td><b>Information Session</b><br>Dr. Janet Metcalfe</td><td>[Zoom](https://columbiauniversity.zoom.us/j/99069021324?pwd=WjFWZXBKNWQ5Rld0M3RQQVVtem16Zz09){target="_blank"}</td></tr>
+<tr><td>3:45p - 4:25p</td><td><b>Faculty Meeting Slot 8</b></td><td>Zoom (see email)</td></tr>
 </table>
 </div>
-<br>
-You can see the full schedule for all three days on the [Schedule](/schedule) page.
-<br><br>
-We also encourage you to view our welcome video just below, check out our [Virtual Tours](/tour), or take a look at our department's adorable [Pets and Mascots](/schedule).
+See full schedule [here](/schedule).
 </div>
 <div class="col-md-4">
 <h3 style="padding-top: 0px; margin-top: 0;">How We'll Connect:</h3>
@@ -50,6 +51,8 @@ We also encourage you to view our welcome video just below, check out our [Virtu
 - **Zoom**: Individual and group meetings (links vary by meeting; see [Schedule](/schedule) page for group meetings and your email for individual meetings)
 
 For more information on these tools, see the [Resources](/resources) page.
+
+We also encourage you to view our welcome video just below, check out our [Virtual Tours](/tour), or take a look at our department's adorable [Pets and Mascots](/schedule).
 
 </div>
 </div>
