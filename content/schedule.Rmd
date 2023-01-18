@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Please note that the schedule below is subject to minor changes.
 
-## Wednesday, February 2nd
+## Wednesday, January 25th
 
 ---
 
@@ -24,7 +24,7 @@ Please note that the schedule below is subject to minor changes.
 </table>
 </div>
 
-## Thursday, February 3rd
+## Thursday, January 26th
 
 ---
 
