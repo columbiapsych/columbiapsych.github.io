@@ -18,46 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 <div class="col-md-10">**We're thrilled that you're here!** On this site, you will find everything you need to help you navigate through your (virtual) Prospective Visit Days with the [Columbia University Psychology Department](https://psychology.columbia.edu/){target="_blank"}. 
 
-If any questions arise, please feel free to reach out to us anytime, either by using our [Slack channel](https://join.slack.com/t/cu-prospectives-2022/shared_invite/zt-11arqkc7r-oclGLi3pWiVqVb4cssor1Q){target="_blank"}, or by contacting one of the Prospective Visit Days coordinators via email: [Camille  Gasser](mailto:cg3083@columbia.edu){target="_blank"}, [Jiawen Huang](mailto:jh4290@columbia.edu){target="_blank"}, and [Daniel Yonas](mailto:dy2415@columbia.edu){target="_blank"}.
-</div>
-</div>
-
-## At a Glance
-
----
-
-<div class="row">
-<div class="col-md-8">
-### Friday, February 4th
-
----
-
-<div class="row" style="padding-left: 15px; padding-right: 15px;">
-<table class="table table-striped">
-<tr><td>10:00a - 11:30a</td><td><b>Lab Meetings</b></td><td>[Cog Neuro](https://columbiauniversity.zoom.us/j/92534552631?pwd=czFUeDQxditZYzQrczVWVG91UlFzdz09){target="_blank"}<br>[Social](https://columbiauniversity.zoom.us/j/93339861890?pwd=My84dnNOeTczOUEwZ3hsSkNxVEpsZz09){target="_blank"}</td></tr>
-<tr><td>11:30a - 12:00p</td><td>Break</td><td></td></tr>
-<tr><td>12:00p - 1:00p</td><td><b>DiversiTea</b></td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
-<tr><td>1:00p - 2:00p</td><td>Break (Lunch)</td><td></td></tr>
-<tr><td>2:00p - 3:00p</td><td><b>Q&A Session with Graduate Students</b></td><td>[Zoom](https://columbiauniversity.zoom.us/j/97481662355?pwd=NXRGc25MSGo4QmsyQmkrcTcreWlkdz09){target="_blank"}</td></tr>
-<tr><td>3:00p - 4:00p</td><td><b>Q&A Session with Labs</b></td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
-<tr><td>4:00p - 5:00p</td><td>Break</td><td></td></tr>
-<tr><td>5:00p - 6:00p</td><td><b>Faculty Show</b></td><td>[Zoom](https://columbiauniversity.zoom.us/j/99783988354?pwd=amRZMzkxU0ErNEJKT3gzMXB1bnlvUT09){target="_blank"}</td></tr>
-<tr><td>6:00p onward</td><td><b>Departmental Dinner/Reception</b></td><td>[Kumospace](https://www.kumospace.com/cupd2022){target="_blank"}</td></tr>
-</table>
-</div>
-
-See full schedule [here](/schedule).
-</div>
-<div class="col-md-4">
-<h3 style="padding-top: 0px; margin-top: 0;">How We'll Connect:</h3>
-- **[Slack](https://join.slack.com/t/cu-prospectives-2022/shared_invite/zt-11arqkc7r-oclGLi3pWiVqVb4cssor1Q){target="_blank"}**: Ongoing support
-- **Kumospace**: Social events (links vary by event; see [Schedule](/schedule) page)
-- **Zoom**: Individual and group meetings (links vary by meeting; see [Schedule](/schedule) page for group meetings and your email for individual meetings)
-
-For more information on these tools, see the [Resources](/resources) page.
-
-We also encourage you to view our welcome video just below, check out our [Virtual Tours](/tour), or take a look at our department's adorable [Pets and Mascots](/schedule).
-
+If any questions arise, please feel free to reach out to us anytime, either by using our [Slack channel](https://join.slack.com/t/cu-prospectives-2023/shared_invite/zt-1nfzok5hu-wkXKIhPSPQ3LiVqdVDjwkg){target="_blank"}, or by contacting one of the Prospective Visit Days coordinators via email: [Jo He](mailto:zh2473@columbia.edu){target="_blank"}, [Jiawen Huang](mailto:jh4290@columbia.edu){target="_blank"}, and [Eivinas ButKus](mailto:eb3407@columbia.edu){target="_blank"}.
 </div>
 </div>
 
@@ -68,3 +29,17 @@ We also encourage you to view our welcome video just below, check out our [Virtu
 Although we can't welcome you to campus in person this year, we've put together a video to help introduce you to the Columbia campus, the psychology department, and the people within it.
 
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/gMBROQDs6-w?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+
+
+
+## How We'll Connect
+
+---
+- **[Slack](https://join.slack.com/t/cu-prospectives-2023/shared_invite/zt-1nfzok5hu-wkXKIhPSPQ3LiVqdVDjwkg){target="_blank"}**: Ongoing support
+- **Kumospace**: Social events (links vary by event; see [Schedule](/schedule) page)
+- **Zoom**: Individual and group meetings (links vary by meeting; see [Schedule](/schedule) page for group meetings and your email for individual meetings)
+
+For more information on these tools, see the [Resources](/resources) page.
+
+We also encourage you to view our welcome video just below, check out our [Virtual Tours](/tour), or take a look at our department's adorable [Pets and Mascots](/pets).
+

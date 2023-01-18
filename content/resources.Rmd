@@ -40,7 +40,7 @@ After logging in, you can move about the virtual room using your computer's arro
 <p style="text-align:center;"><img src="/images/slack.jpg"></p>
 </div>
 <div class="col-md-6">
-Slack is a digital messaging platform that allows for text-based conversations. During Prospective Visit Days, graduate students will be available on [this dedicated Slack Channel](https://join.slack.com/t/cu-prospectives-2022/shared_invite/zt-11arqkc7r-oclGLi3pWiVqVb4cssor1Q){target="_blank"}.
+Slack is a digital messaging platform that allows for text-based conversations. During Prospective Visit Days, graduate students will be available on [this dedicated Slack Channel](https://join.slack.com/t/cu-prospectives-2023/shared_invite/zt-1nfzok5hu-wkXKIhPSPQ3LiVqdVDjwkg){target="_blank"}.
 
 We welcome you to stop by anytime throughout your virtual visit! We would be happy to to help you find where you need to go next, answer questions about the program, discuss life in New York City, or chat about your research interests.
 
