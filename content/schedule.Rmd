@@ -35,11 +35,11 @@ Please note that the schedule below is subject to minor changes.
 <p>
 <div class="row" style="padding-left: 15px; padding-right: 15px;">
 <table class="table table-striped">
-<tr><td>9:00a - 9:50a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner, Department Chair [<a href="https://psychology.columbia.edu/content/kevin-ochsner" target="_blank">Faculty Profile</a>]</td><td>Zoom (to be updated)</td></tr>
+<tr><td>9:00a - 9:50a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner, Department Chair [<a href="https://psychology.columbia.edu/content/kevin-ochsner" target="_blank">Faculty Profile</a>]</td><td>[Zoom](https://columbiauniversity.zoom.us/j/98564579611?pwd=YlR5TEVYVVNOaHl2djI3L290Zm5WUT09)</td></tr>
 <tr><td>10:00a - 5:40p</td><td><b>Faculty Meeting Slots </b></td><td>Zoom (see email)</td></tr>
 <tr><td>12:00p - 1:00p</td><td><b>DiversiTea </b></td><td>[Kumospace](https://www.kumospace.com/columbia-psych-2023){target="_blank"}</td></tr>
 <tr><td>2:00p - 4:30p</td><td><b> Meeting slots with Current Grad Students </b></td><td>[Kumospace](https://www.kumospace.com/columbia-psych-2023){target="_blank"}</td></tr>
-<tr><td>5:45p onwards </td><td><b>Information Session + Goodbye </b><br>Dr. Nim Tottenham, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/nim-tottenham" target="_blank">Faculty Profile</a>]</td><td>Zoom (to be updated)</td></tr>
+<tr><td>5:45p onwards </td><td><b>Information Session + Goodbye </b><br>Dr. Nim Tottenham, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/nim-tottenham" target="_blank">Faculty Profile</a>]</td><td>[Zoom](https://columbiauniversity.zoom.us/j/98564579611?pwd=YlR5TEVYVVNOaHl2djI3L290Zm5WUT09)</td></tr>
 </table>
 </div>
 
