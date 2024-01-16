@@ -18,9 +18,10 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 <div class="col-md-10">**We're thrilled that you're here!** On this site, you will find everything you need to help you navigate through your (virtual) Prospective Visit Days with the [Columbia University Psychology Department](https://psychology.columbia.edu/){target="_blank"}. 
 
-If any questions arise, please feel free to reach out to us anytime, either by using our [Slack channel](https://join.slack.com/t/cu-prospectives-2023/shared_invite/zt-1nfzok5hu-wkXKIhPSPQ3LiVqdVDjwkg){target="_blank"}, or by contacting one of the Prospective Visit Days coordinators via email: [Jo He](mailto:zh2473@columbia.edu){target="_blank"}, [Jiawen Huang](mailto:jh4290@columbia.edu){target="_blank"}, and [Eivinas ButKus](mailto:eb3407@columbia.edu){target="_blank"}.
+If any questions arise, please feel free to reach out to us anytime, either by using our [Slack channel](https://join.slack.com/t/cu-psych-prosp-2024/signup){target="_blank"}, or by contacting one of the Prospective Visit Days coordinators via email: [Jo He](mailto:zh2473@columbia.edu){target="_blank"}, [Arlene Lormestoire](mailto:al4201@columbia.edu){target="_blank"}, and [Eivinas Butkus](mailto:eb3407@columbia.edu){target="_blank"}.
 </div>
 </div>
+
 
 ## Welcome Video
 
@@ -31,11 +32,10 @@ Although the interviews will be virtual this year, please take a look at a video
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/gMBROQDs6-w?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
 
-
 ## How We'll Connect
 
 ---
-- **[Slack](https://join.slack.com/t/cu-prospectives-2023/shared_invite/zt-1nfzok5hu-wkXKIhPSPQ3LiVqdVDjwkg){target="_blank"}**: Ongoing support
+- **[Slack](https://join.slack.com/t/cu-psych-prosp-2024/signup){target="_blank"}**: Ongoing support
 - **Kumospace**: Social events (links vary by event; see [Schedule](/schedule) page)
 - **Zoom**: Individual and group meetings (links vary by meeting; see [Schedule](/schedule) page for group meetings and your email for individual meetings)
 

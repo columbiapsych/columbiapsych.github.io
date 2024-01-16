@@ -14,40 +14,148 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Please note that the schedule below is subject to minor changes.
 
-## Wednesday, January 25th
+------------------------------------------------------------------------
 
----
+## Thursday, Feb 1st
 
-<div class="row" style="padding-left: 15px; padding-right: 15px;">
-<table class="table table-striped">
-<tr><td>6:00p onward</td><td><b>Virtual Social Event</b><br>Prospective and current graduate students</td><td>[Kumospace](https://www.kumospace.com/columbia-psych-2023){target="_blank"}</td></tr>
+<table style="width:100%;">
+  <tr>
+    <td style="padding-right: 30px; width:20%">11:00am - 4:00pm</td>
+    <td style="padding-right: 30px;"><strong>Arrival</strong><br>Prospective students arrive in NYC.</td>
+    <td><a href="https://thelucernehotel.com/">The Lucerne Hotel</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">4:00pm - 5:00pm</td>
+    <td style="padding-right: 30px;"><strong>DiversiTea</strong><br>Anonymized discussions about diversity, inclusivity and equity with current graduate students.</td>
+    <td><a href="https://www.kumospace.com/columbia-psych-2023" target="_blank">Kumospace</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 15px;">6:00pm - 9:00pm</td>
+    <td style="padding-right: 15px;"><strong>Dinner with graduate students</strong><br>Free and casual dinner with current graduate students before the interview day.</td>
+    <td><a href="https://cottanyc.com/" target="_blank">Osteria Cotta</a></td>
+  </tr>
 </table>
-</div>
 
-## Thursday, January 26th 
+------------------------------------------------------------------------
 
----
+## Friday, Feb 2nd
 
-<p>
-<b>Note:</b> The faculty meeting slots reflect all the possible times that faculty meetings might be scheduled. In total, you will talk with three faculty, 30-40 minutes each. Check your email for your personalized interview schedule. 
+<b>Note</b>: The faculty meeting slots reflect all the possible times that faculty meetings might be scheduled. In total, you will talk with up to four faculty members, 30 minutes each. Check your email for your personalized interview schedule.
 
-<p>
-<p>
-<div class="row" style="padding-left: 15px; padding-right: 15px;">
-<table class="table table-striped">
-<tr><td>9:00a - 9:50a</td><td><b>Welcome</b><br>Dr. Kevin Ochsner, Department Chair [<a href="https://psychology.columbia.edu/content/kevin-ochsner" target="_blank">Faculty Profile</a>]</td><td>[Zoom](https://columbiauniversity.zoom.us/j/98564579611?pwd=YlR5TEVYVVNOaHl2djI3L290Zm5WUT09)</td></tr>
-<tr><td>10:00a - 5:40p</td><td><b>Faculty Meeting Slots </b></td><td>Zoom (see email)</td></tr>
-<tr><td>12:00p - 1:00p</td><td><b>DiversiTea </b></td><td>[Kumospace](https://www.kumospace.com/columbia-psych-2023){target="_blank"}</td></tr>
-<tr><td>2:00p - 4:30p</td><td><b> Meeting slots with Current Grad Students </b></td><td>[Kumospace](https://www.kumospace.com/columbia-psych-2023){target="_blank"}</td></tr>
-<tr><td>5:45p onwards </td><td><b>Information Session + Goodbye </b><br>Dr. Nim Tottenham, Director of Graduate Studies [<a href="https://psychology.columbia.edu/content/nim-tottenham" target="_blank">Faculty Profile</a>]</td><td>[Zoom](https://columbiauniversity.zoom.us/j/98564579611?pwd=YlR5TEVYVVNOaHl2djI3L290Zm5WUT09)</td></tr>
+<table style="width:100%;">
+  <tr>
+    <td style="padding-right: 30px; width:20%">8:45am - 9:40am</td>
+    <td style="padding-right: 30px;">
+      <strong>Breakfast and introductions</strong><br>
+      Chair's Welcome (Nim Tottenham)<br>
+      Information from Director of Graduate Studies (Niall Bolger)
+    </td>
+    <td><a href="https://visit.columbia.edu/content/maps-and-directions-update" target="_blank">Schermerhorn Room 321</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">9:40am - 12:30pm</td>
+    <td style="padding-right: 30px;">
+      <strong>Interviews</strong><br>
+      See personalized schedule for faculty members, locations, and times.
+    </td>
+    <td>Schermerhorn Hall<br>
+    Zuckerman Institute</td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">12:30pm - 2:00pm</td>
+    <td style="padding-right: 30px;">
+      <strong>Lunch with labs interviewing students</strong>
+    </td>
+    <td><a href="https://www.pisticcinyc.com/" target="_blank">Pisticci</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">2:00pm - 2:30pm</td>
+    <td style="padding-right: 30px;">
+      <strong>Tour of Scanner and Facilities</strong><br>
+      (Optional)
+    </td>
+    <td>Zuckerman Institute</td>
+  </tr>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">2:30pm - 3:30pm</td>
+    <td style="padding-right: 30px;">
+      <strong>Housing Tour + Neighbourhood Tour</strong><br>
+    </td>
+    <td>Location TBD</td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">3:45pm - 5:15pm</td>
+    <td style="padding-right: 30px;">
+      <strong>Joint Lab Meetings</strong><br>
+      See personalized schedule for locations.
+    </td>
+    <td>Schermerhorn Hall<br>
+    Zuckerman Institute</td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">5:15pm - 6:00pm</td>
+    <td style="padding-right: 30px;">
+      <strong>General Q&A</strong><br>
+      Open Q&A session for prospectives to chat with current grad students.
+    </td>
+    <td>Schermerhorn Rotunda</td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">6:00pm - 8:30pm</td>
+    <td style="padding-right: 30px;">
+      <strong>Department Dinner</strong><br>
+    </td>
+    <td>Janet Metcalfe's Apartment</td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 30px;">9:30pm onwards</td>
+    <td style="padding-right: 30px;">
+      <strong>Bar with graduate students</strong><br>
+      Unwind with current graduate students!
+    </td>
+    <td><a href="https://www.amityhalluptown.com/" target="_blank">Amity Hall Uptown</a></td>
+  </tr>
 </table>
-</div>
+
+
+------------------------------------------------------------------------
 
 ## Choose Your Own Adventure!
 
----
 
-- [Campus and Morningside Heights Tour](/tour#campus-and-morningside-heights)
-- [MBBI Tour](/tour#mbbi)
-- [Housing Tours](/tour#housing)
-- [Pets and Mascots](/pets)
+
+-   [Campus and Morningside Heights Tour](/tour#campus-and-morningside-heights)
+-   [MBBI Tour](/tour#mbbi)
+-   [Housing Tours](/tour#housing)
+-   [Pets and Mascots](/pets)

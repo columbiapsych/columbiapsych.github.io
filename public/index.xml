@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Columbia Psychology: Prospective Visit Days (2023)</title>
+    <title>Home on Columbia Psychology: Prospective Visit Days (2024)</title>
     <link>/</link>
-    <description>Recent content in Home on Columbia Psychology: Prospective Visit Days (2023)</description>
+    <description>Recent content in Home on Columbia Psychology: Prospective Visit Days (2024)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pets and Mascots</title>
       <link>/pets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/pets/</guid>
       <description> Pets and Mascots </description>
     </item>
-    
     <item>
       <title>Resources</title>
       <link>/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/resources/</guid>
-      <description>Resources During Prospective Visit Days, we will use a few different platforms to facilitate your virtual visit. If you have any questions about how to use them, or if you experience any unforeseen technical difficulties, please don’t hesitate to let us know!
-Kumospace Kumospace is an immersive video chat platform that allows people to mingle within a virtual event space. During Prospective Visit Days, social events will take place at the event-specific Kumospace links found on the Schedule page.</description>
+      <description>Resources During Prospective Visit Days, we will use a few different platforms to facilitate your virtual visit. If you have any questions about how to use them, or if you experience any unforeseen technical difficulties, please don’t hesitate to let us know!&#xA;Kumospace Kumospace is an immersive video chat platform that allows people to mingle within a virtual event space. During Prospective Visit Days, social events will take place at the event-specific Kumospace links found on the Schedule page.</description>
     </item>
-    
     <item>
       <title>Schedule</title>
       <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/schedule/</guid>
-      <description>Schedule Please note that the schedule below is subject to minor changes.
-Wednesday, January 25th 6:00p onward Virtual Social Event
-Prospective and current graduate students Kumospace Thursday, January 26th Note: The faculty meeting slots reflect all the possible times that faculty meetings might be scheduled. In total, you will talk with three faculty, 30-40 minutes each. Check your email for your personalized interview schedule.
-9:00a - 9:50a Welcome
-Dr. Kevin Ochsner, Department Chair [Faculty Profile] Zoom 10:00a - 5:40p Faculty Meeting Slots Zoom (see email) 12:00p - 1:00p DiversiTea Kumospace 2:00p - 4:30p Meeting slots with Current Grad Students Kumospace 5:45p onwards Information Session + Goodbye Dr.</description>
+      <description>Schedule Please note that the schedule below is subject to minor changes.&#xA;Thursday, Feb 1st 11:00am - 4:00pm Arrival&#xA;Prospective students arrive in NYC. The Lucerne Hotel 4:00pm - 5:00pm DiversiTea&#xA;Anonymized discussions about diversity, inclusivity and equity with current graduate students. Kumospace 6:00pm - 9:00pm Dinner with graduate students&#xA;Free and casual dinner with current graduate students before the interview day. Osteria Cotta Friday, Feb 2nd Note: The faculty meeting slots reflect all the possible times that faculty meetings might be scheduled.</description>
     </item>
-    
     <item>
       <title>Virtual Tour</title>
       <link>/tour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/tour/</guid>
       <description>Virtual Tour Campus and Morningside Heights Although Columbia University was established in 1754, it moved throughout New York City several times before settling in 1897 in its current location in Morningside Heights, which is nestled between the Upper West Side and Harlem in the borough of Manhattan. Schermerhorn Hall, the location of the psychology department, is one of the original buildings in this current location. To learn more about our department and the university, check out the following virtual tour!</description>
     </item>
-    
   </channel>
 </rss>

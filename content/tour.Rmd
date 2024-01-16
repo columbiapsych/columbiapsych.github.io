@@ -35,9 +35,9 @@ Columbia recently opened its 450,000-square-foot home to the [Mortimer B. Zucker
 
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/38TA2FycU2c?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
-### MBBI Lab Tour with Wenxuan Guo (3rd Year)
+<!-- ### MBBI Lab Tour with Wenxuan Guo (3rd Year) -->
 
-<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/Kn2XC6rD2Jo?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+<!-- <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/Kn2XC6rD2Jo?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div> -->
 
 ## Housing
 
@@ -47,22 +47,22 @@ The university offers housing to graduate students for up to five years in apart
 
 To give you a better sense of what it's like to live in Morningside Heights (as well as off-campus in Brooklyn), several students in the program have created tours featuring their housing. Please see below!
 
-### One Bedroom Apartment Tour with Emily Nakkawita (4th Year):
+### One Bedroom Apartment Tour with Emily Nakkawita (5th Year):
 
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/zdrlbkj6_7M?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
-### One Bedroom Apartment Tour with Craig Poskanzer (2nd Year):
+### One Bedroom Apartment Tour with Craig Poskanzer (3rd Year):
 
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/525V4go64Bw?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
-### Studio Apartment Tour with Wenxuan Guo (3rd Year):
+<!-- ### Studio Apartment Tour with Wenxuan Guo (3rd Year): -->
 
-<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/6oUv0q-jmuM?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+<!-- <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/6oUv0q-jmuM?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div> -->
 
 ### Apartment Share Tour with Yifan Yao (5th Year):
 
 <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/HatelBoLPbI?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
 
-### One Bedroom (Off-Campus Housing) Apartment Tour with Andrea Fields (6th Year):
+<!-- ### One Bedroom (Off-Campus Housing) Apartment Tour with Andrea Fields (6th Year): -->
 
-<div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/6NwxwxJJWL4?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div>
+<!-- <div class="video-container" style="margin-bottom:50px"><iframe width="640" height="390" src="https://www.youtube.com/embed/6NwxwxJJWL4?modestbranding=1&showinfo=0&rel=0&theme=light&color=white" frameborder="0"></iframe></div> -->
