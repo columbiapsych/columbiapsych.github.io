@@ -30,7 +30,7 @@ Please note that the schedule below is subject to minor changes.
   <tr>
     <td style="padding-right: 30px;">4:00pm - 5:00pm</td>
     <td style="padding-right: 30px;"><strong>DiversiTea</strong><br>Anonymized discussions about diversity, inclusivity and equity with current graduate students.</td>
-    <td><a href="https://www.kumospace.com/columbia-psych-2023" target="_blank">Kumospace</a></td>
+    <td><a href="https://www.kumospace.com/cu-psych-prosp-2024" target="_blank">Kumospace</a></td>
   </tr>
   <tr>
     <td colspan="3"><hr></td>
